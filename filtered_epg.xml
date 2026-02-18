@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="filtered_epg" date="20260218134827 +0000">
+<tv generator-info-name="filtered_epg" date="20260218163550 +0000">
 <channel id="max.hd.in">
     <display-name lang="sq">Max HD</display-name>
     <url>http://www.ipko.com</url>
@@ -798,11 +798,9 @@
   <icon src="http://ryzen.one/logos2/sony_bbc_earthhd.jpg" /></channel>
   
 <channel id="star.movies.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/xOksMo1R.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/xOksMo1R.png" />
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">STAR MOVIES HD</display-name>
-  </channel>
+  <icon src="http://ryzen.one/logos2/star_movieshd.jpg" /></channel>
   
 <channel id="tv9.marathi.in">
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/boJhoYZ5.png" />
