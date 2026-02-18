@@ -86,7 +86,7 @@ star.gold.hd.in http://ryzen.one/logos2/star_goldhd.jpg
 star.gold.romance.in
 star.gold.select.hd.in 
 star.gold.thrills.in 
-star.movies.hd.in 
+star.movies.hd.in http://ryzen.one/logos2/star_movieshd.jpg
 star.movies.select.hd.in http://ryzen.one/logos2/star_movies_selecthd.jpg
 star.plus.hd.in http://ryzen.one/logos2/star_plushd.jpg
 star.sports.1.hd.hindi.in 
