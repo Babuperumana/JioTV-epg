@@ -49,7 +49,7 @@ eurosports.hd.in
 history.tv18.hd.in http://ryzen.one/logos2/history_tv18.jpg
 hungama.in
 india.tv.in http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-TV.png
-max.hd.in http://ryzen.one/logos2/sony_maxhd.jpg
+Sony.Max.HD.in http://ryzen.one/logos2/sony_maxhd.jpg
 mn+.hd.in http://ryzen.one/logos2/mn+moviedhd.jpg
 mnx.hd.in http://ryzen.one/logos2/mnx_hd.jpg
 movies.now.in
