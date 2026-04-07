@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="filtered_epg" date="20260407140840 +0000">
-<channel id="max.hd.in">
-    <display-name lang="sq">Max HD</display-name>
-    <url>http://www.ipko.com</url>
-  <icon src="http://ryzen.one/logos2/sony_maxhd.jpg" /></channel>
-  
+<tv generator-info-name="filtered_epg" date="20260407160711 +0000">
 <channel id="star.life.in">
     <display-name lang="sq">Star Life</display-name>
     <url>http://www.ipko.com</url>
@@ -217,6 +212,11 @@
     <display-name lang="en">Colors Cineplex HD</display-name>
     <url>http://www.tvwish.com</url>
   <icon src="http://ryzen.one/logos2/colors_cineplexhd.jpg" /></channel>
+  
+<channel id="sony.max.hd.in">
+    <display-name lang="en">Sony Max HD</display-name>
+    <url>http://www.tvwish.com</url>
+  <icon src="http://ryzen.one/logos2/sony_maxhd.jpg" /></channel>
   
 <channel id="star.gold.2.hd.in">
     <display-name lang="en">Star Gold 2 HD</display-name>
@@ -792,11 +792,6 @@
     <display-name lang="en">DHOOM MUSIC</display-name>
   </channel>
   
-<channel id="max.hd.in">
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">MAX HD</display-name>
-  <icon src="http://ryzen.one/logos2/sony_maxhd.jpg" /></channel>
-  
 <channel id="zee.classic.in">
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">ZEE CLASSIC</display-name>
@@ -1080,6 +1075,11 @@
     <display-name lang="en">SkySp Cricket</display-name>
   </channel>
   
+<channel id="sony.max.hd.in">
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SONY MAX HD</display-name>
+  <icon src="http://ryzen.one/logos2/sony_maxhd.jpg" /></channel>
+  
 <channel id="b4u.music.in">
     <url>http://www.sky.com</url>
     <display-name lang="en">B4U Music</display-name>
@@ -1148,374 +1148,6 @@
     <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DPH.png" />
     <url>http://www.dstv.com</url>
   </channel>
-  
-<programme start="20260407043500 +0000" stop="20260407062500 +0000" channel="max.hd.in">
-    <title lang="sq">Mund&#235;sia p&#235;r fam&#235;</title>
-    <desc lang="sq">Zoe Tapper, Andrew Lincoln, David Leon. N&#235; Londr&#235;n e viteve 1930, nj&#235; aktore e re, n&#235; p&#235;rpjekje p&#235;r t&#235; ndjekur hapat e n&#235;n&#235;s s&#235; famshme, p&#235;rfshihet n&#235; nj&#235; trek&#235;nd&#235;sh dashurie me nj&#235; skenarist n&#235; v&#235;shtir&#235;si dhe nj&#235; regjisor vizionar.</desc>
-    <date>2006</date>
-    <category lang="sq">Humoristik</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/34/e/0/34e0b78a-2e25-403b-9c88-ff12d2f1ebde.jpg" />
-  </programme>
-  
-<programme start="20260407062500 +0000" stop="20260407082500 +0000" channel="max.hd.in">
-    <title lang="sq">Stealth</title>
-    <desc lang="sq">J.Lucas, J.Biel. Tre pilot&#235;t m&#235; t&#235; mir&#235; n&#235; bordin e nj&#235; mjeti fluturues t&#235; drejtuar nga inteligjenca artificiale. Di&#231;ka shkon keq, por ata urdh&#235;rohen t&#235; nisen p&#235;r t&#235; tjera misione mbi bordin e mjetit t&#235; rreziksh&#235;m.</desc>
-    <date>2005</date>
-    <category lang="sq">Fanta Shkenc&#235;</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/45/9/c/459c4b1b-a074-4f6a-ae43-9f2492be2dbd.jpg" />
-  </programme>
-  
-<programme start="20260407082500 +0000" stop="20260407095500 +0000" channel="max.hd.in">
-    <title lang="sq">Arratisje nga Rankalaja</title>
-    <desc lang="sq">Tri vajza udh&#235;tojn&#235; n&#235; bot&#235;n e video loj&#235;rave p&#235;r t&#235; shp&#235;tuar v&#235;llain e nj&#235;r&#235;s prej tyre. Ato kan&#235; vet&#235;m tre jet&#235; dhe nj&#235; mori rreziqesh p&#235;r t&#235; p&#235;rballuar, para se t&#235; jet&#235; shum&#235; von&#235; p&#235;r t&#235; gjith&#235;...</desc>
-    <date>2019</date>
-    <category lang="sq">Fanta Shkenc&#235;</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/98/9/d/989d70b0-1035-49b9-b207-ce4759d88945.jpg" />
-  </programme>
-  
-<programme start="20260407095500 +0000" stop="20260407113000 +0000" channel="max.hd.in">
-    <title lang="sq">Njihuni me Blejket</title>
-    <desc lang="sq">Parodi e filmave &#8217;Shfrenimi&#8217;. Kur Karl Blejk, shp&#235;rngul familjen n&#235; Beverli Hills, ai mendon se &#235;sht&#235; nj&#235; nga lagjet m&#235; t&#235; mira, pa e ditur q&#235; &#235;sht&#235; shp&#235;rngulur fiks n&#235; koh&#235;n e &#8217;fest&#235;s&#8217; s&#235; p&#235;rvitshme t&#235; shfrenimit...</desc>
-    <date>2016</date>
-    <category lang="sq">Humoristik</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/d6/5/0/d6503879-cc84-4248-8b68-5d34f4a394fb.jpg" />
-  </programme>
-  
-<programme start="20260407113000 +0000" stop="20260407130000 +0000" channel="max.hd.in">
-    <title lang="sq">Fati n&#235;n pem&#235;n e Krishtlindjes</title>
-    <desc lang="sq">Candace Cameron Bure, Paul Greene. Nj&#235; vajz&#235; n&#235; prag martese, detyrohet t&#235; filloj&#235; nj&#235; udh&#235;tim drejt Nju Jorkut me nj&#235; djal&#235; zem&#235;rthyer dhe nj&#235; &#231;ift t&#235; vjet&#235;r n&#235; mosh&#235; dhe p&#235;rgjat&#235; rrug&#235;s, secili m&#235;son shum&#235; p&#235;r nj&#235;ri-tjetrin, por edhe p&#235;r veten.</desc>
-    <date>2015</date>
-    <category lang="sq">Humoristik</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/05/f/8/05f854c1-db63-405f-8d74-8767d003b69f.jpg" />
-  </programme>
-  
-<programme start="20260407130000 +0000" stop="20260407145000 +0000" channel="max.hd.in">
-    <title lang="sq">T&#235; humbur n&#235; Hong Kong</title>
-    <desc lang="sq">Nd&#235;rkoh&#235; q&#235; ndodhet me pushime n&#235; Hong Kong me bashk&#235;shorten dhe kunatin e tij, nj&#235; njeri p&#235;rfshihet n&#235; nj&#235; hetim p&#235;r vrasje.</desc>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260407145000 +0000" stop="20260407164500 +0000" channel="max.hd.in">
-    <title lang="sq">Na shp&#235;to nga i ligu</title>
-    <desc lang="sq">Eric Bana. Polici nju jorkez, Ralph, pasi njihet me nj&#235; prift t&#235; pazakont&#235;, t&#235; specializuar n&#235; ritet e ekzorcizmit, vendos t&#235; b&#235;j&#235; t&#235; pamundur&#235;n p&#235;r t&#235; luftuar shpirtrat e pushtuar dhe t&#235; ligj, q&#235; po terrorizojn&#235; gjith&#235; qytetin...</desc>
-    <date>2014</date>
-    <category lang="sq">Triller</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/8e/8/f/8e8f17dd-6a65-404c-abd3-6804fb1e649c.jpg" />
-  </programme>
-  
-<programme start="20260407164500 +0000" stop="20260407181500 +0000" channel="max.hd.in">
-    <title lang="sq">Zemra q&#235; flet</title>
-    <desc lang="sq">Pas nj&#235; transplantimi zemre, Manueli fillon t&#235; ndjej&#235; ndryshime t&#235; &#231;uditshme tek vetja. I shtyr&#235; nga nj&#235; forc&#235; q&#235; nuk e kupton dot, ai k&#235;rkon t&#235; njoh&#235; jet&#235;n e dhuruesit t&#235; zemr&#235;s. Kjo e &#231;on drejt Vale-s, t&#235; ves&#235; s&#235; dhuruesit. Teksa lidhjet emocionale mes tyre thellohen, Manueli zbulon se zemra q&#235; ka brenda vetes, mban histori t&#235; pashlyeshme.</desc>
-    <date>2025</date>
-    <category lang="sq">Humoristik</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/0f/4/5/0f453674-7155-404f-a536-653a77b7cd28.jpg" />
-  </programme>
-  
-<programme start="20260407181500 +0000" stop="20260407200000 +0000" channel="max.hd.in">
-    <title lang="sq">D&#235;mi</title>
-    <desc lang="sq">Steve Austin, Lynda Boyd. Nj&#235; ish i burgosur, detyrohet t&#235; futet n&#235; bot&#235;n e arteve marciale p&#235;r t&#235; siguruar jetes&#235;n. Ai mundohet t&#235; futet n&#235; rrug&#235; t&#235; drejt&#235; dhe me ndihm&#235;n e dy asistent&#235;ve t&#235; tij shpejt arrin majat e suksesit.</desc>
-    <date>2009</date>
-    <category lang="sq">Dram&#235;</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/38/2/c/382cf49c-1a3a-457b-879e-5f5d4f7bb1ef.jpg" />
-  </programme>
-  
-<programme start="20260407200000 +0000" stop="20260407213500 +0000" channel="max.hd.in">
-    <title lang="sq">Mallkimi i &#199;akit</title>
-    <desc lang="sq">Chantal Quesnelle. Kukulla vras&#235;se &#199;aki, rikthehet p&#235;r t&#235; v&#235;n&#235; n&#235; sh&#235;njest&#235;r nj&#235; familje t&#235; re... Nje vajz&#235; e re, pas vdekjes s&#235; n&#235;n&#235;s s&#235; saj, fillon t&#235; dyshoj&#235; se shkaktarja &#235;sht&#235; nj&#235; kukull e vog&#235;l misterioze...</desc>
-    <date>2013</date>
-    <category lang="sq">Triller</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/31/3/c/313c1fba-93d5-44a1-aad6-daef0702ec0e.jpg" />
-  </programme>
-  
-<programme start="20260407213500 +0000" stop="20260407231000 +0000" channel="max.hd.in">
-    <title lang="sq">Ana dhe Apokalipsi</title>
-    <desc lang="sq">Nj&#235; grup gjimnazist&#235;sh guximtar&#235; p&#235;rpiqen t&#8217;i mbijetojn&#235; nj&#235; apokalipsi zombish, nd&#235;rsa luftojn&#235;, k&#235;ndojn&#235; dhe shpartallojn&#235; &#231;do krijes&#235; t&#235; frikshme q&#235; u del rrug&#235;s p&#235;r tek prind&#235;rit e tyre.</desc>
-    <date>2017</date>
-    <category lang="sq">Horror</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/64/1/8/6418365b-71b5-41e5-9760-acb34333a289.jpg" />
-  </programme>
-  
-<programme start="20260407231000 +0000" stop="20260408010000 +0000" channel="max.hd.in">
-    <title lang="sq">N&#235; gjak</title>
-    <desc lang="sq">Gina Carano, Cam Gigandet, Danny Trejo. Pasi i humbet i shoqi gjat&#235; pushimeve n&#235; Karaibe, nj&#235; grua lufton e vetme qe t&#235; shkat&#235;rroj&#235; njer&#235;zit p&#235;r t&#235; cil&#235;t mendon se jan&#235; shkaktar&#235;t e fatkeq&#235;sis&#235; s&#235; saj.</desc>
-    <date>2014</date>
-    <category lang="sq">Aksion</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/76/b/f/76bfdbc3-a52f-46e0-ba22-ac0b50928c18.jpg" />
-  </programme>
-  
-<programme start="20260408010000 +0000" stop="20260408023000 +0000" channel="max.hd.in">
-    <title lang="sq">Mes pyllit t&#235; err&#235;t</title>
-    <desc lang="sq">Timothy Hutton, Sharon Stone, Dylan Baker. Historia e disa njer&#235;zve me karakter vet&#235;shkat&#235;rrues, t&#235; cil&#235;t rendin pas nj&#235; ideali q&#235; u rr&#235;shqet dhe ndon&#235;se realizojn&#235; shumic&#235;n e d&#235;shirave, d&#235;shp&#235;rimi mund t&#8217;i b&#235;j&#235; t&#235; humbasin gjith&#231;ka.</desc>
-    <date>2007</date>
-    <category lang="sq">Dram&#235;</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/f7/1/8/f7189d0c-e776-4104-969f-d9830acab19c.jpg" />
-  </programme>
-  
-<programme start="20260408023000 +0000" stop="20260408041600 +0000" channel="max.hd.in">
-    <title lang="sq">Gjith&#235; fajin e ka Hollivudi</title>
-    <desc lang="sq">Ben Affleck. Kur dy shok&#235;t e ngusht&#235; Xhei dhe Bobi zbulojn&#235; se nj&#235; film i ri po xhirohet n&#235; baze t&#235; personazheve t&#235; tyre, do t&#235; nisen drejt Hollivudit p&#235;r t&#235; marre parate e merituara, ndryshe do t&#235; sabotojne projektin m&#235; t&#235; ri kinematografik.</desc>
-    <date>2001</date>
-    <category lang="sq">Humoristik</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/e0/c/7/e0c77f80-017e-47f3-b2bb-0b9bab1f56a9.jpg" />
-  </programme>
-  
-<programme start="20260408041600 +0000" stop="20260408055000 +0000" channel="max.hd.in">
-    <title lang="sq">Austin Powers 3</title>
-    <desc lang="sq">Mike Myers, Beyonc&#233; Knowles, Seth Green. Parodi e filmave t&#235; agjentit &#8221;James Bond&#8221;. Pasi m&#235;son se i kan&#235; rr&#235;mbyer babain, Austin Powers duhet t&#235; kthehet pas n&#235; vitin 1975, p&#235;r t&#8217;u p&#235;rballur me Dr. I Keqi dhe bashk&#235;pun&#235;torin e tij t&#235; ri.</desc>
-    <date>2002</date>
-    <category lang="sq">Fanta Shkenc&#235;</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/63/e/8/63e86fb5-5af7-4c9e-a868-5cb506674892.jpg" />
-  </programme>
-  
-<programme start="20260408055000 +0000" stop="20260408071500 +0000" channel="max.hd.in">
-    <title lang="sq">Kabina telefonike</title>
-    <desc lang="sq">Colin Farell. Nj&#235; dram&#235; e r&#235;nd&#235; q&#235; ndodh brenda dhe rreth nj&#235; kabine telefonike n&#235; zem&#235;r t&#235; New York-ut. Nj&#235; njeri i z&#235;n&#235; n&#235; kurth, n&#235;n sh&#235;njestr&#235;n e nj&#235; snajperi, po i paguan shtrenjt&#235; g&#235;njeshtrat dhe mashtrimet e th&#235;na.</desc>
-    <date>2002</date>
-    <category lang="sq">Triller</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/03/0/2/030218c7-d791-4a43-831e-90ca511bed96.jpg" />
-  </programme>
-  
-<programme start="20260408071500 +0000" stop="20260408085000 +0000" channel="max.hd.in">
-    <title lang="sq">Bariu i dhive</title>
-    <desc lang="sq">David Duchovny, Vera Farmiga, Graham Phillips. Nd&#235;rkoh&#235; q&#235; p&#235;rgatitet p&#235;r vitin e par&#235; t&#235; shkoll&#235;s larg familjes, nj&#235; 15 vje&#231;ar p&#235;rballet me v&#235;shtir&#235;sit&#235; e ndarjes nga n&#235;na hipi dhe &#8217;Bariu i dhive&#8217;, njeriu q&#235; p&#235;r t&#235; ka qen&#235; si nj&#235; baba.</desc>
-    <date>2012</date>
-    <category lang="sq">Humoristik</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/94/2/7/94275ef7-ca04-4dda-ad52-d4e3f28c6bb8.jpg" />
-  </programme>
-  
-<programme start="20260408085000 +0000" stop="20260408105000 +0000" channel="max.hd.in">
-    <title lang="sq">Sht&#235;pia e kamave fluturuese</title>
-    <desc lang="sq">N&#235; dinastin&#235; Tang n&#235; Kin&#235;, nj&#235; organizat&#235;, me emrin &#8217;Sht&#235;pia e Kamave fluturuese&#8217; i ka shpallur luft&#235; qeveris&#235;. Dy oficer&#235; policie &#231;lirojn&#235; nj&#235; valltare q&#235; dyshohet se ka lidhje me organizat&#235;n, por asgj&#235; nuk &#235;sht&#235; ashtu si&#231; duket...</desc>
-    <date>2004</date>
-    <category lang="sq">Aksion</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260408105000 +0000" stop="20260408121500 +0000" channel="max.hd.in">
-    <title lang="sq">Thyej rregullat</title>
-    <desc lang="sq">Adam Copeland, Jamie Kennedy. Nj&#235; prokuror i vendosur p&#235;r t&#235; d&#235;nuar nj&#235; polic p&#235;r korrupsion, jo vet&#235;m q&#235; humbet &#231;&#235;shtjen, por i duhet t&#235; k&#235;rkoj&#235; edhe ndihm&#235;n e po t&#235; nj&#235;jtit polic p&#235;r t&#235; gjetur grabit&#235;sin e makin&#235;s klasike t&#235; babait t&#235; tij.</desc>
-    <date>2012</date>
-    <category lang="sq">Aksion</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/fe/5/9/fe594d1c-a2bf-4273-b617-cfa8f2328bc2.jpg" />
-  </programme>
-  
-<programme start="20260408121500 +0000" stop="20260408140000 +0000" channel="max.hd.in">
-    <title lang="sq">Veronika vendos t&#235; vdes&#235;</title>
-    <desc lang="sq">Sarah Michelle Gellar. Pasi merr veten nga nj&#235; tentativ&#235; p&#235;r vetvrasje, nj&#235; vajz&#235; e re zbulon se nuk i ka mbetur dhe shum&#235; koh&#235; p&#235;r t&#235; jetuar. Lajmi i jep gjith&#231;kaje nj&#235; kuptim t&#235; ri, madje edhe k&#235;ndv&#235;shtrimit t&#235; saj mbi jet&#235;n...</desc>
-    <date>2009</date>
-    <category lang="sq">Romanc&#235;</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/0f/2/5/0f253426-9047-4b63-b4af-5e7af84848c8.jpg" />
-  </programme>
-  
-<programme start="20260408140000 +0000" stop="20260408155000 +0000" channel="max.hd.in">
-    <title lang="sq">Legjenda e mjeshtrit t&#235; madh 2</title>
-    <desc lang="sq">Donnie Yen, Lynn Hung. N&#235; Hong Kongun e vitit 1949, mjeshtri i madh Ip Man, vendos t&#235; hap&#235; nj&#235; shkoll&#235; p&#235;r t&#235; m&#235;suar stilin e tij t&#235; arteve marciale &#8217;Wing Chun&#8217;...</desc>
-    <date>2010</date>
-    <category lang="sq">Aksion</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260408155000 +0000" stop="20260408183000 +0000" channel="max.hd.in">
-    <title lang="sq">Zodiak</title>
-    <desc lang="sq">Bazuar n&#235; romanin e Robert Graysmith mbi jet&#235;n e fam&#235;keqit Zodiac, vras&#235;s serial q&#235; terrorizoi San Franciskon n&#235; vitet 1960-1970. Me Jake Gyllenhaal, Robert Downey Jr. , Mark Ruffalo etj.</desc>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260408183000 +0000" stop="20260408200000 +0000" channel="max.hd.in">
-    <title lang="sq">Aspirant p&#235;r vejan</title>
-    <desc lang="sq">Fabio De Luigi, Luciana Littizzetto. Kur merr lajmin se gruaja e tij pasanike dhe shpirtkeqe ka vdekur n&#235; nj&#235; aksident ajror, Alberto fillon fest&#235;n, derisa kuptohet se ajo nuk hipi kurr&#235; n&#235; avion...</desc>
-    <date>2013</date>
-    <category lang="sq">Humoristik</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/ad/0/7/ad07c792-571c-4602-8ad6-866f5b6cba54.jpg" />
-  </programme>
-  
-<programme start="20260408200000 +0000" stop="20260408215000 +0000" channel="max.hd.in">
-    <title lang="sq">P&#235;rroi i ndryshkur</title>
-    <desc lang="sq">Nj&#235; studente e shk&#235;lqyer dhe ambicioze q&#235; ngat&#235;rron rrug&#235;n nd&#235;rsa po shkon n&#235; nj&#235; intervist&#235; pune, humbet n&#235; pyjet e Kentakit, ku duhet t&#235; b&#235;j&#235; aleanc&#235; me nj&#235; burr&#235; misteroz p&#235;r t&#235; mbijetuar.</desc>
-    <date>2018</date>
-    <category lang="sq">Triller</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/44/c/2/44c252e5-8d98-46e4-ab0c-b9dba024e8db.jpg" />
-  </programme>
-  
-<programme start="20260408215000 +0000" stop="20260408233500 +0000" channel="max.hd.in">
-    <title lang="sq">Oreksi</title>
-    <desc lang="sq">Nj&#235; familje e pasur gjermane shkon p&#235;r pushime n&#235; vil&#235;n e tyre luksoze n&#235; Franc&#235;. Atje pun&#235;sojn&#235; Teodor&#235;n si sh&#235;rb&#235;tore, p&#235;r t&#8217;i ndihmuar gjat&#235; q&#235;ndrimit. Por pasi ajo fiton besimin e tyre, prania e saj kthehet n&#235; nj&#235; k&#235;rc&#235;nim t&#235; heshtur, duke shnd&#235;rruar pushimet, n&#235; nj&#235; loj&#235; manipulimi dhe rreziku.</desc>
-    <date>2025</date>
-    <category lang="sq">Krim</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/cd/4/5/cd457d3b-49ef-4949-9aef-a7fe61a556b0.jpg" />
-  </programme>
-  
-<programme start="20260408233500 +0000" stop="20260409010500 +0000" channel="max.hd.in">
-    <title lang="sq">Hajdut&#235;t e kufomave</title>
-    <desc lang="sq">Bazuar n&#235; ngjarje t&#235; v&#235;rteta. N&#235; shek. e 19-t&#235;, dy irlandez&#235; p&#235;piqen t&#235; b&#235;jn&#235; para duke i ofruar shkoll&#235;s mjek&#235;sore t&#235; Edinburgut kufoma t&#235; fresk&#235;ta p&#235;r k&#235;rkimet e saj. Metodat e tyre p&#235;r gjetjen e trupave nuk ishin aspak t&#235; zakonta ...</desc>
-    <date>2010</date>
-    <category lang="sq">Humoristik</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409010500 +0000" stop="20260409032000 +0000" channel="max.hd.in">
-    <title lang="sq">Matrix Reloaded</title>
-    <desc lang="sq">K.Reeves, L.Fishburne. Nios dhe udh&#235;heq&#235;sve rebel&#235; u kan&#235; mbetur edhe 72 or&#235; derisa Ushtria e Makinave t&#235; v&#235;r&#235; n&#235; veprim planin p&#235;r shkat&#235;rrimin e qytetit t&#235; Zionit. Nd&#235;rkoh&#235;, Nio duhet t&#235; shp&#235;toj&#235; Trinitin&#235; nga nj&#235; fat i zi n&#235; &#235;ndrrat e tij.</desc>
-    <date>2003</date>
-    <category lang="sq">Triller</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/b6/3/8/b63819e4-7e20-4c56-938c-96420247e2bc.jpg" />
-  </programme>
-  
-<programme start="20260409032000 +0000" stop="20260409045100 +0000" channel="max.hd.in">
-    <title lang="sq">Pema e xunkthit</title>
-    <desc lang="sq">Nj&#235; k&#235;ng&#235;tare kristiane dhe i dashuri i saj me mision n&#235; Skoci, do t&#235; zbulojn&#235; kuptimin e v&#235;rtet&#235; t&#235; sakrific&#235;s, kur p&#235;rballen me nj&#235; grup pagan&#235;sh n&#235; nj&#235; fshat t&#235; izoluar...</desc>
-    <date>2011</date>
-    <category lang="sq">Triller</category>
-    <category lang="sq">Film</category>
-    <icon src="https://vimg.ipko.tv/mtcms/fb/e/1/fbe1e3f5-ba1b-41bd-8a5f-0f3a2da56c51.jpg" />
-  </programme>
-  
-<programme start="20260409045100 +0000" stop="20260409050000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409050000 +0000" stop="20260409060000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409060000 +0000" stop="20260409070000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409070000 +0000" stop="20260409080000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409080000 +0000" stop="20260409090000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409090000 +0000" stop="20260409100000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409100000 +0000" stop="20260409110000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409110000 +0000" stop="20260409120000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409120000 +0000" stop="20260409130000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409130000 +0000" stop="20260409140000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409140000 +0000" stop="20260409150000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409150000 +0000" stop="20260409160000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409160000 +0000" stop="20260409170000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409170000 +0000" stop="20260409180000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409180000 +0000" stop="20260409190000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409190000 +0000" stop="20260409200000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409200000 +0000" stop="20260409210000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409210000 +0000" stop="20260409220000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409220000 +0000" stop="20260409230000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
-  
-<programme start="20260409230000 +0000" stop="20260410000000 +0000" channel="max.hd.in">
-    <title lang="sq">Unknown show</title>
-    <date>2026</date>
-    <icon src="https://vimg.ipko.tv/mtcms/dev/0b/f/f/0bff2b48-588e-4a3a-b69d-943d1ea62a11.jpeg" />
-  </programme>
   
 <programme start="20260407044500 +0000" stop="20260407051000 +0000" channel="star.life.in">
     <title lang="sq">S5E18 - The Nanny</title>
@@ -79197,186 +78829,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p31800400_b_h9_ab.jpg?lock=880x660" />
   </programme>
   
-<programme channel="max.hd.in" start="20260407083500 +0530" stop="20260407104200 +0530">
-    <title lang="en">A Aa</title>
-    <desc lang="en">Anasuya is the daughter of Mahalakshmi, a rich and strict businesswoman. Her life takes a turn for the better when her father sends her to a village to visit her aunt.</desc>
-    <credits>
-      <actor>Samantha Ruth Prabhu</actor>
-      <actor>Nithin</actor>
-      <actor>Ananya</actor>
-      <actor>Srinivas Avasarala</actor>
-      <actor>Anupama Parameshwaran</actor>
-      <actor>Nadhiya</actor>
-      <actor>Naresh</actor>
-      <actor>Rao Ramesh</actor>
-      <actor>Brahmanandam</actor>
-      <actor>Srinivasa Reddy</actor>
-      <actor>Hari Teja</actor>
-      <actor>Easwari Rao</actor>
-      <actor>Ajay Rao</actor>
-      <director>Trivikram Srinivas</director>
-      <producer>S. Radha Krishna</producer>
-      <producer>Umesh Gupta</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Drama</category>
-    <icon src="https://dtil.tmsimg.com/assets/p12927537_v_h9_aa.jpg?lock=880x660" />
-  </programme>
-  
-<programme channel="max.hd.in" start="20260407104200 +0530" stop="20260407131200 +0530">
-    <title lang="en">Lokah Chapter 1: Chandra</title>
-    <desc lang="en">A youthful woman uncovers mystical skills while facing personal hurdles. Meanwhile, as evil surfaces, she must embrace her powers and fate in a shifting world.</desc>
-    <credits>
-      <actor>Kalyani Priyadarshan</actor>
-      <actor>Naslen</actor>
-      <actor>Sandy Master</actor>
-      <actor>Arun Kurian</actor>
-      <actor>Chandu Salimkumar</actor>
-      <actor>Nishanth Sagar</actor>
-      <director>Dominic Arun</director>
-      <producer>Dulquer Salmaan</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p31009945_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  
-<programme channel="max.hd.in" start="20260407131200 +0530" stop="20260407151800 +0530">
-    <title lang="en">Robinhood</title>
-    <desc lang="en">A modern-day Robin Hood thrives on stealing from the rich. However, he reluctantly becomes a bodyguard for a high-profile client due to unforeseen circumstances.</desc>
-    <credits>
-      <actor>Shine Tom Chacko</actor>
-      <actor>Nithiin</actor>
-      <actor>Sreeleela</actor>
-      <actor>Kyle Paul</actor>
-      <actor>Vennela Kishore</actor>
-      <actor>Devdatta Nage</actor>
-      <actor>Subhalekha Sudhakar</actor>
-      <actor>Brahmaji</actor>
-      <director>Venky Kudumula</director>
-      <producer>Naveen Yerneni</producer>
-      <producer>Yalamanchili Ravi Shankar</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p30647560_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  
-<programme channel="max.hd.in" start="20260407151800 +0530" stop="20260407171200 +0530">
-    <title lang="en">Middle Class Melodies</title>
-    <desc lang="en">Raghava, a young man, runs a breakfast center in his village but wishes to open a small hotel in a nearby town. However, he faces challenges in his quest and must overcome them to succeed.</desc>
-    <credits>
-      <actor>Varsha Bollamma</actor>
-      <actor>Anand Devarakonda</actor>
-      <actor>Chaitanya Garikipati</actor>
-      <actor>Divya Sripada</actor>
-      <actor>Goparaju Ramana</actor>
-      <actor>Surabhi Prabhavati</actor>
-      <actor>Prem Sagar</actor>
-      <director>Vinod Ananthoju</director>
-      <producer>V. Anand Prasad</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://dtil.tmsimg.com/assets/p19105031_v_h9_aa.jpg?lock=880x660" />
-  </programme>
-  
-<programme channel="max.hd.in" start="20260407171200 +0530" stop="20260407195000 +0530">
-    <title lang="en">K.G.F: Chapter 1</title>
-    <desc lang="en">Rocky, a young man, seeks power and wealth in order to fulfil a promise to his dying mother. His quest takes him to Mumbai, where he gets involved with the notorious gold mafia.</desc>
-    <credits>
-      <actor>Yash</actor>
-      <actor>Srinidhi Shetty</actor>
-      <actor>Ramachandra Raju</actor>
-      <actor>Archana Jois</actor>
-      <actor>Anant Nag</actor>
-      <actor>Vasishta N. Simha</actor>
-      <actor>Tamannaah Bhatia</actor>
-      <actor>Srinivasa Murthy</actor>
-      <director>Prashanth Neel</director>
-      <producer>Vijay Kiragandur</producer>
-      <producer>Hetvi Karia</producer>
-      <producer>Chaluve Gowda</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p16345736_v_h9_ad.jpg?lock=880x660" />
-  </programme>
-  
-<programme channel="max.hd.in" start="20260407195000 +0530" stop="20260407221500 +0530">
-    <title lang="en">Nela Ticket</title>
-    <desc lang="en">An orphan boy, Nela Ticket, is raised by Ananda Bhupathi at his orphanage in Bangalore. Years later, when Ananda is killed by a corrupt politician, Nela sets out to take revenge.</desc>
-    <credits>
-      <actor>Ravi Teja</actor>
-      <actor>Malavika Sharma</actor>
-      <actor>Jagapathi Babu</actor>
-      <actor>Surekha Vani</actor>
-      <actor>Mohammad Ali</actor>
-      <actor>Sampath Raj</actor>
-      <actor>Krishna Murali Posani</actor>
-      <actor>Rajitha</actor>
-      <director>Kalyan Krishna</director>
-      <producer>Rajani Talluri</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p15470244_v_h9_ab.jpg?lock=880x660" />
-  </programme>
-  
-<programme channel="max.hd.in" start="20260407221500 +0530" stop="20260408030000 +0530">
-    <title lang="en">The Mummy</title>
-    <desc lang="en">Rick and his group accidentally awaken a mummy during an archaeological excavation.</desc>
-    <credits>
-      <actor>Brendan Fraser</actor>
-      <actor>Rachel Weisz</actor>
-      <actor>John Hannah</actor>
-      <actor>Arnold Vosloo</actor>
-      <actor>Kevin J. O'Connor</actor>
-      <actor>Jonathan Hyde</actor>
-      <actor>Oded Fehr</actor>
-      <actor>Erick Avari</actor>
-      <actor>Stephen Dunham</actor>
-      <actor>Corey Johnson</actor>
-      <actor>Tuc Watkins</actor>
-      <actor>Omid Djalili</actor>
-      <actor>Aharon Ipal&#233;</actor>
-      <actor>Bernard Fox</actor>
-      <actor>Patricia Velasquez</actor>
-      <actor>Carl Chase</actor>
-      <actor>Mohammed Afifi</actor>
-      <director>Stephen Sommers</director>
-      <producer>Sean Daniel</producer>
-      <producer>James Jacks</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23111_v_h9_ab.jpg?lock=880x660" />
-  </programme>
-  
-<programme channel="max.hd.in" start="20260408030000 +0530" stop="20260408060000 +0530">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660" />
-  </programme>
-  
-<programme channel="max.hd.in" start="20260408060000 +0530" stop="20260408090000 +0530">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660" />
-  </programme>
-  
-<programme channel="max.hd.in" start="20260408090000 +0530" stop="20260408120000 +0530">
-    <title lang="en">Movie</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660" />
-  </programme>
-  
 <programme channel="mn+.hd.in" start="20260407082500 +0530" stop="20260407102700 +0530">
     <title lang="en">The Da Vinci Code</title>
     <desc lang="en">A dying curator of the Louvre hides cryptic clues on Da Vinci paintings. Now it is up to Robert Langdon and Sophie Neveu to follow the clues and unearth a secret kept hidden for centuries.</desc>
@@ -103465,6 +102917,468 @@ Mama jest przyt&#322;oczona organizacj&#261; imprezy osiedlowej. Prosi syn&#243;
     <date>2023</date>
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S4E88</episode-num>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260406003100 +0000" stop="20260406024400 +0000">
+    <title lang="en">Darling (why This Kolavari)</title>
+    <desc lang="en">Raghav's marriage plans are disrupted by his wife's multiple personalities. However, he grows through this experience, learns about love and finds unexpected joy in life.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/261e0c24-97cd-4293-9268-d14fc3f03dbd/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260406024400 +0000" stop="20260406034200 +0000">
+    <title lang="en">Extraa Shots Ludo</title>
+    <desc lang="en">Watch behind the scenes and meet the cast and crew of the movie.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6c9811c4-6ddc-4400-a9c2-9a84faf593b7/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260406034200 +0000" stop="20260406041800 +0000">
+    <title lang="en">The Making Of Pk</title>
+    <desc lang="en">Watch behind the scenes and meet the cast and crew of the movie.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0443ec08-9875-4187-b9ad-1713eecd6efb/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260406041800 +0000" stop="20260406060700 +0000">
+    <title lang="en">Time To Dance</title>
+    <desc lang="en">When a ballroom dancer's shot at a crucial tournament is jeopardized, a street dancer must face his own painful past and step up as her new partner.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/590f2331-d431-44ae-a9d9-fe42884c38ca/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260406060700 +0000" stop="20260406092000 +0000">
+    <title lang="en">Jaaneman</title>
+    <desc lang="en">Suhaan, an aspiring actor, is in a fix when Piya files for divorce and forces him to pay a large amount as alimony. To avoid paying her, Suhaan uses Agastya's love for Piya and helps him woo her.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/91b84b9c-465e-4d43-ab51-41348a9c9fbd/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260406092000 +0000" stop="20260406114900 +0000">
+    <title lang="en">Qaidi Band</title>
+    <desc lang="en">Qaidi Band film revolves around seven innocent under-trials, who give a band performance in the prison to get into the good books of the authorities and secure their acquittal.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c645846e-f5b9-40bb-a9e0-81d0a235e500/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260406114900 +0000" stop="20260406143300 +0000">
+    <title lang="en">Heyy Baby</title>
+    <desc lang="en">Three men living in Australia are surprised to find a baby on their doorstep. They do not know who the father is and start a frantic search for the woman who could possibly be the mother.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bebdf53f-7dbc-3e90-a859-61aa9c0675f8/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260406143300 +0000" stop="20260406165900 +0000">
+    <title lang="en">Mahavatar Narsimha</title>
+    <desc lang="en">Hiranyakashyap, a demon, challenges Vishnu, proclaiming himself a god. However, his son Prahlad remains devoted to Vishnu, who appears as Narsimha to defeat the demon.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c95855f1-3baa-4ef2-92c0-8152cb110dac/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260406165900 +0000" stop="20260406193400 +0000">
+    <title lang="en">Toolsidas Junior</title>
+    <desc lang="en">Watching his father lose the 1994 Club Snooker Championship, 13-year-old Midi takes on the impossible journey to bring his father's name on the Winner's Board.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/645902ca-c60e-48e0-bddd-844f6c7a933e/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260406193400 +0000" stop="20260406222200 +0000">
+    <title lang="en">Bhool Bhulaiyaa 2</title>
+    <desc lang="en">When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for 18 years.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/85788d72-5545-4f6d-be23-44d37d094ee4/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260406222200 +0000" stop="20260407012500 +0000">
+    <title lang="en">Paagalpanti</title>
+    <desc lang="en">A tourist group from India sets out on a vacation to only have their trip to turn into a patriotic mission. Will it end well for them.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4669e5e0-fdef-424b-8fc7-24315e728ef9/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260407012500 +0000" stop="20260407040400 +0000">
+    <title lang="en">Bade Miyan Chote Miyan</title>
+    <desc lang="en">When a masked madman who wants to destroy India steals a dangerous weapon, two elite soldiers must work together to recover it.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9b978be0-f3e2-3250-97af-99f067727fe0/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260407040400 +0000" stop="20260407060200 +0000">
+    <title lang="en">Setters</title>
+    <desc lang="en">Apurva Chaudhary and his team leak several examination papers and make huge profits out of it. Meanwhile, Aditya Singh and his team of honest officers attempt to catch the criminals.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a5778a89-2317-41e6-874c-7fe3a6bb8c21/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260407060200 +0000" stop="20260407072300 +0000">
+    <title lang="en">Ashwamedham</title>
+    <desc lang="en">Dhruva an undercover agent is on a mission to catch the culprits, who intend to loot the National treasure by using professional hackers.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ec361413-d760-46c1-9af1-97c3b4431ba7/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260407072300 +0000" stop="20260407100100 +0000">
+    <title lang="en">Befikre</title>
+    <desc lang="en">Two commitment-phobic individuals enter into a casual relationship that turns out to be fraught with more emotion than they can handle. They drift apart, only to be drawn back together.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9d7e22c7-e460-3455-8cd9-9bf5732eaa5f/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260407100100 +0000" stop="20260407122500 +0000">
+    <title lang="en">Sadak</title>
+    <desc lang="en">A young man who falls in love with a sex worker must overcome the social stigma as well as face the brothel owner and some criminal elements.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a18522a2-6495-437f-97fb-5ac0d05ea9ab/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260407122500 +0000" stop="20260407145300 +0000">
+    <title lang="en">Ek Ladki Ko Dekha Toh Aisa Laga</title>
+    <desc lang="en">A young woman must contend with a family that wants her to get married, a writer who is completely smitten with her, and a secret that she harbors close to her heart.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8c256f63-d633-426a-b3bb-d9c8f13b57ac/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260407145300 +0000" stop="20260407170000 +0000">
+    <title lang="en">Arjun Patiala</title>
+    <desc lang="en">Arjun Patiala is a quirky small-town cop, who is fond of women and even more fond of his drinks. His original and unusual ideas help reduce crime rate in the town.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8ef3c519-7672-43bc-a681-7da888bfc9c6/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260407170000 +0000" stop="20260407193500 +0000">
+    <title lang="en">Hit- The First Case</title>
+    <desc lang="en">A brilliant but troubled police inspector sets out to solve a confounding case, all while fighting to gain clarity into his troubled past.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/652e323d-3988-4a81-939c-949249867107/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260407193500 +0000" stop="20260407200300 +0000">
+    <title lang="en">The Making Of Bewakoofiyaan</title>
+    <desc lang="en">Watch behind the scenes and meet the cast and crew of the movie.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/71300e38-f214-4875-ab5e-2c7f1d553461/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260407200300 +0000" stop="20260407231900 +0000">
+    <title lang="en">Durgamati - The Myth</title>
+    <desc lang="en">A bureaucrat is imprisoned in a haunted house for interrogation. However, things take an unexpected turn when she gets possessed by a spirit.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dc652b75-700b-4c98-801b-5ee58d8534fe/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260407231900 +0000" stop="20260408023200 +0000">
+    <title lang="en">Dil Hai Ke Manta Nahi</title>
+    <desc lang="en">Pooja runs away from home to be with her boyfriend. On her way, she meets Raghu, who agrees to escort her to her destination, and falls in love with him.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0cc90616-26b6-3ba4-99ea-f8bb6a8a12d0/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260408023200 +0000" stop="20260408043300 +0000">
+    <title lang="en">Costao</title>
+    <desc lang="en">In the 1990s, customs officer Costao Fernandes becomes a legend in Goa due to his bravery and tactics. His personal and professional life unravels when he kills a powerful drug lord in self-defence.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/66259687-24ff-4d21-83e1-b54cd42a051d/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260408043300 +0000" stop="20260408063500 +0000">
+    <title lang="en">Shakuntala Devi: A Human Computer</title>
+    <desc lang="en">Shakuntala Devi, a mathematician's journey to become 'The Human Computer' and her relationship with her daughter.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d19ec692-83d9-3a4f-9c17-e4ad39ce68ed/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260408063500 +0000" stop="20260408082500 +0000">
+    <title lang="en">Biskut</title>
+    <desc lang="en">The story revolves around 3 generations where the three individuals played by Santhanam and they have no relation to each other. The mysteries and correction of mistakes in the past forms the story.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4ac7a92e-0ed0-40fd-8c75-8567d6e1e90e/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260408082500 +0000" stop="20260408111000 +0000">
+    <title lang="en">Main Atal Hoon</title>
+    <desc lang="en">Statesman &amp; poet, Shri Atal Bihari Vajpayee's eloquence &amp; vision shaped India's destiny. A biopic on his remarkable life &amp; legacy.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7af824b6-dc09-3375-9820-91f1698b9125/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260408111000 +0000" stop="20260408135800 +0000">
+    <title lang="en">Mere Husband Ki Biwi</title>
+    <desc lang="en">A divorced man's life turns chaotic when his college crush returns just as his amnesiac ex-wife reappears, sparking a hilarious love triangle full of confusion.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/97dc8a5e-63f1-4c30-b0fd-e4f44dbc1164/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260408135800 +0000" stop="20260408170000 +0000">
+    <title lang="en">Patthar Ke Phool</title>
+    <desc lang="en">A young police officer and the daughter of a gangster fall in love at first sight.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/19c2666e-c26b-438e-b8e7-cb104394487a/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260408170000 +0000" stop="20260408195700 +0000">
+    <title lang="en">Yaariyan 2</title>
+    <desc lang="en">Three cousins embrace the warmth of a new city when they move to Mumbai, but they also face challenges that transform their lives.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6a782ada-7d7e-3ac9-959e-2eb7e085ac60/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260408195700 +0000" stop="20260408223300 +0000">
+    <title lang="en">Zara Hatke Zara Bachke</title>
+    <desc lang="en">Kapil and Somya are a happily married couple who live in a joint family and decide to get a divorce. Things don't go as planned as their family gets to know of it, and thus begins a comedy of errors.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/54f0d18a-6016-3c17-885a-b9ab525fc15d/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260408223300 +0000" stop="20260409013300 +0000">
+    <title lang="en">Aankh Micholi</title>
+    <desc lang="en">Three cousins, Laadli Chibber, Bajrang Das Khatri and Shikhar Randhawa, embrace the warmth of a new city when they move to Mumbai, but they also face challenges that transform their lives.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ec65bd81-e28b-3e5a-915c-8d1f40519cef/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260409013300 +0000" stop="20260409035300 +0000">
+    <title lang="en">Ek Chatur Naar</title>
+    <desc lang="en">Struggling Mamta finds a corrupt tycoon's phone and risks everything by blackmailing him for a chance at a better life.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d8ea3df8-73a9-4e53-8227-2e350a76ccae/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260409035300 +0000" stop="20260409040600 +0000">
+    <title lang="en">Extraaa Storiez: Bhool Bhulaiyaa 2</title>
+    <desc lang="en">Watch behind the scenes and meet the cast and crew of the movie.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a8ccca6f-75aa-4c8b-9b2b-f059bf397a34/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260409040600 +0000" stop="20260409042400 +0000">
+    <title lang="en">Extraaa Storiez: 12th Fail</title>
+    <desc lang="en">Watch behind the scenes and meet the cast and crew of the movie.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1bbbe2df-366d-3693-8f55-67389f01fd8e/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260409042400 +0000" stop="20260409064000 +0000">
+    <title lang="en">Dil Toh Baccha Hai Ji</title>
+    <desc lang="en">Three roommates are in search of true love. They each find a girl with whom they fall head over heels in love with. Now they just have to get the women to reciprocate.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2b398211-4012-44d6-8813-a2944cbab93c/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260409064000 +0000" stop="20260409091200 +0000">
+    <title lang="en">Toolsidas Junior</title>
+    <desc lang="en">Watching his father lose the 1994 Club Snooker Championship, 13-year-old Midi takes on the impossible journey to bring his father's name on the Winner's Board.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/645902ca-c60e-48e0-bddd-844f6c7a933e/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260409091200 +0000" stop="20260409115400 +0000">
+    <title lang="en">Hit- The First Case</title>
+    <desc lang="en">A brilliant but troubled police inspector sets out to solve a confounding case, all while fighting to gain clarity into his troubled past.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/652e323d-3988-4a81-939c-949249867107/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260409115400 +0000" stop="20260409141300 +0000">
+    <title lang="en">Hurdang</title>
+    <desc lang="en">Back in 1990s, an aspiring IAS starts a rebellion against the caste-based reservation.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3766d805-1958-4b6c-a556-ae3cb128ef66/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260409141300 +0000" stop="20260409170000 +0000">
+    <title lang="en">Tera Kya Hoga Lovely</title>
+    <desc lang="en">A comedy of errors that traverses through the hinterlands of Haryana unfolding crazy dynamics, relationships and eccentricities that occur between family, friends, lovers, and even cops!</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dd6bedd4-28fa-3da9-845b-759466517dd0/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260409170000 +0000" stop="20260409202300 +0000">
+    <title lang="en">Kabir Singh</title>
+    <desc lang="en">Kabir Singh, a senior medical student, is heartbroken when his girlfriend is forced to marry another man. Already struggling with anger issues, he falls into a self-destructive spiral.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0fc433ee-a212-4225-b128-605c06d4ae0e/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260409202300 +0000" stop="20260409224900 +0000">
+    <title lang="en">Rocky Handsome</title>
+    <desc lang="en">John Abraham plays reclusive pawn shop owner who sets his sights on revenge when vicious gangsters kidnap his drug-addicted neighbours daughter. Heart-stopping action adventure.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7468ba33-52cb-46fa-a932-d7feb08242c2/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+<programme channel="sony.max.hd.in" start="20260409224900 +0000" stop="20260410012000 +0000">
+    <title lang="en">Luv Ki Arrange Marriage</title>
+    <desc lang="en">Luv is in love with Ishika and wants to ask for her hand in marriage. A laughter riot follows when his widowed father falls in love with Ishika's mother. Which couple has a more successful love story.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/25d4373f-7030-3f24-a37b-422cac0d2b69/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
   </programme>
   
 <programme channel="sony.max.2.in" start="20260406002500 +0000" stop="20260406030700 +0000">
