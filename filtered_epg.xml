@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="filtered_epg" date="20260429143854 +0000">
+<tv generator-info-name="filtered_epg" date="20260429170014 +0000">
 <channel id="star.life.in">
     <display-name lang="sq">Star Life</display-name>
     <url>http://www.ipko.com</url>
@@ -1721,6 +1721,7 @@
     <category lang="sq">Serial</category>
     <icon src="https://vimg.ipko.tv/mtcms/cc/5/a/cc5abfef-67b7-4f68-9734-17c185123ecd.jpg" />
   </programme>
+  
 <programme start="20260501025000 +0000" stop="20260501031500 +0000" channel="star.life.in">
     <title lang="sq">S1E23 - 8 Simple Rules</title>
     <date>2002</date>
@@ -2028,7 +2029,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  
 <programme start="20260428013000 +0000" stop="20260428023000 +0000" channel="foxcricket.in">
     <title lang="en">IPL: Capitals v Challengers</title>
     <sub-title lang="en">Capitals v Challengers</sub-title>
@@ -5081,6 +5081,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115" />
     <episode-num system="onscreen">S14 E12</episode-num>
   </programme>
+  
 <programme channel="discovery.science.in" start="20260430014300 +0000" stop="20260430022800 +0000">
     <title lang="en">Machines Of Glory</title>
     <sub-title lang="en">Backhoe Brawl</sub-title>
@@ -6665,7 +6666,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20260429234500 +0000" stop="20260430001500 +0000">
     <title lang="en">Mr Bean: The Animated Series</title>
     <sub-title lang="en">Game Over/A Dog's Life</sub-title>
@@ -6717,6 +6717,7 @@
       <value>G</value>
     </rating>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20260430024500 +0000" stop="20260430031500 +0000">
     <title lang="en">Lamput</title>
     <sub-title lang="en">Lamput Docs And Robot/The Docs Express/Clowning Around</sub-title>
@@ -6950,7 +6951,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20260430170000 +0000" stop="20260430180000 +0000">
     <title lang="en">Ben 10</title>
     <sub-title lang="en">Don't Let the Bass Drop/Heat Of The Moment/Wheels Of Fortune/My Bodyguard/Brief Caree</sub-title>
@@ -6998,6 +6998,7 @@
       <value>G</value>
     </rating>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20260430210000 +0000" stop="20260430220000 +0000">
     <title lang="en">Teen Titans Go!</title>
     <sub-title lang="en">Justice League's Next Top Talent Idol Star: Pt 1/Justice League's Next Top Talent Ido</sub-title>
@@ -8052,6 +8053,7 @@
     <category lang="en">Cricket/Match</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
   </programme>
+  
 <programme channel="astro.cricket.in" start="20260430034600 +0000" stop="20260430041000 +0000">
     <title lang="en">TATA IPL 2026</title>
     <sub-title lang="en">Highlights: M35: DC vs PBKS</sub-title>
@@ -8627,7 +8629,6 @@
     <category lang="en">Cricket/Match</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
   </programme>
-  
 <programme channel="astro.cricket.in" start="20260501221500 +0000" stop="20260501223900 +0000">
     <title lang="en">TATA IPL 2026</title>
     <sub-title lang="en">Highlights: M37: GT vs CSK</sub-title>
@@ -9765,7 +9766,6 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch774_160_115" />
     <episode-num system="onscreen">S1 E218</episode-num>
   </programme>
-  
 <programme channel="sony.sab.in" start="20260430073700 +0000" stop="20260430080400 +0000">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <sub-title lang="en">Taarak Mehta Ka Ooltah Chashmah</sub-title>
@@ -10737,6 +10737,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch774_160_115" />
     <episode-num system="onscreen">S1 E1219</episode-num>
   </programme>
+  
 <programme channel="sony.sab.in" start="20260501101200 +0000" stop="20260501103800 +0000">
     <title lang="en">Hui Gumm Yaadein</title>
     <sub-title lang="en">Hui Gumm Yaadein</sub-title>
@@ -11594,7 +11595,6 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch774_160_115" />
     <episode-num system="onscreen">S1 E1220</episode-num>
   </programme>
-  
 <programme channel="sony.sab.in" start="20260502101200 +0000" stop="20260502103800 +0000">
     <title lang="en">Hui Gumm Yaadein</title>
     <sub-title lang="en">Hui Gumm Yaadein</sub-title>
@@ -13221,7 +13221,6 @@
     <episode-num system="onscreen">S2026 E50218</episode-num>
     <premiere lang="en" />
   </programme>
-  
 <programme start="20260429000000 +0530" stop="20260429003300 +0530" channel="colors.hd.in">
     <title lang="hi-IN">&#2354;&#2366;&#2347;&#2381;&#2335;&#2352; &#2358;&#2375;&#2347;</title>
     <sub-title lang="hi-IN">Guest Chef Sanjeev Kapoor evaluates the participating pairs during a rigorous cooking challenge, focusing on their culinary technique and discipline</sub-title>
@@ -14383,6 +14382,7 @@
     <episode-num system="onscreen">E389</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260501181500 +0530" stop="20260501183000 +0530" channel="colors.hd.in">
     <title lang="hi-IN">Kasam Tere Pyaar Ki</title>
     <sub-title lang="hi-IN">Tanya has a severe eye pain that causes the principal to call Rishi, her father, to take her home. Natasha also wants to tag along. However, Tanuja has blocked Rishi's number. How will Rishi and Natasha convince Tanuja now?</sub-title>
@@ -16050,6 +16050,7 @@
     <episode-num system="onscreen">E4</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260501133000 +0530" stop="20260501140000 +0530" channel="travelxp.hd.in">
     <title lang="en-GB">Mr. \u0026 Mrs. Roy on the Maharajas' Express</title>
     <desc lang="en-GB">Rohit and Manasi are on the Maharaja's Express. They first travel to Udaipur, where they bump into an old friend who knows all their secrets.</desc>
@@ -17247,6 +17248,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/75041a40e750f1d1d7dadfb994611ab4.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260430063000 +0530" stop="20260430063500 +0530" channel="aaj.tak.in">
     <title lang="hi-IN">5 &#2350;&#2367;&#2344; 25 &#2326;&#2348;&#2352;</title>
     <sub-title lang="hi-IN">The host presents a comprehensive and detailed coverage of the top twenty five latest news and developments in five minutes</sub-title>
@@ -17763,7 +17765,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/422324ee47123f25850f9511bfc27b3d.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260501053000 +0530" stop="20260501055000 +0530" channel="aaj.tak.in">
     <title lang="hi-IN">&#2319;&#2337;&#2368;&#2357;&#2368;&#2335;&#2368;/&#2347;&#2335;&#2366;&#2347;&#2335;</title>
     <sub-title lang="hi-IN">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs</sub-title>
@@ -19008,6 +19009,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/129afe3f6a9e751bde0a8f01bf408441.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260430170000 +0530" stop="20260430180000 +0530" channel="b4u.music.in">
     <title lang="hi-IN">BOOM BOX</title>
     <sub-title lang="hi-IN">A comprehensive collection of the most popular Bollywood dance tracks and top club hits play back to back</sub-title>
@@ -19444,6 +19446,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/129afe3f6a9e751bde0a8f01bf408441.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260502053000 +0530" stop="20260502063000 +0530" channel="b4u.music.in">
     <title lang="hi-IN">Hitz</title>
     <desc lang="hi-IN">Featuring the latest, hottest and exclusive hit tunes.</desc>
@@ -19660,7 +19663,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5d629a279df54e3a6acda6175edb4f33.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260429000000 +0530" stop="20260429001500 +0530" channel="india.tv.in">
     <title lang="hi-IN">&#2310;&#2332; &#2325;&#2368; &#2348;&#2366;&#2340; &#2352;&#2332;&#2340; &#2358;&#2352;&#2381;&#2350;&#2366; &#2325;&#2375; &#2360;&#2366;&#2341;</title>
     <desc lang="hi-IN">Host Rajat Sharma provides the latest news on the latest events and current affairs along with a detailed analysis of the topics.</desc>
@@ -20224,7 +20226,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5a6d73c8dafa57daa77bd599fd8344d1.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260430175800 +0530" stop="20260430182800 +0530" channel="india.tv.in">
     <title lang="hi-IN">&#2309;&#2348;&#2325;&#2368; &#2348;&#2366;&#2352; &#2325;&#2367;&#2360;&#2325;&#2368; &#2360;&#2352;&#2325;&#2366;&#2352;</title>
     <desc lang="hi-IN">The host highlights the various political parties participating in the current election and provides the latest developments related to it.</desc>
@@ -24576,7 +24577,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/43fd2db4f49312b1450d1539a8374d6d.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260430020000 +0530" stop="20260430023000 +0530" channel="9x.jalwa.in">
     <title lang="hi-IN">&#2352;&#2366;&#2340; &#2349;&#2352;</title>
     <desc lang="hi-IN">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
@@ -24816,6 +24816,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d2d0fa8027882dbb964f6164d82061cf.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260430173000 +0530" stop="20260430180000 +0530" channel="9x.jalwa.in">
     <title lang="hi-IN">&#2360;&#2369;&#2346;&#2352; &#2360;&#2381;&#2357;&#2376;&#2327;</title>
     <desc lang="hi-IN">A comprehensive compilation of some of the latest and popular songs composed by various artists and bands is played back to back.</desc>
@@ -25071,6 +25072,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ee03c67a1485abe803d2accfe9eea467.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260501100000 +0530" stop="20260501103000 +0530" channel="9x.jalwa.in">
     <title lang="hi-IN">&#2360;&#2369;&#2346;&#2352; &#2360;&#2369;&#2348;&#2361; (&#2348;&#2381;&#2352;&#2375;&#2325;&#2354;&#2375;&#2360;)</title>
     <desc lang="hi-IN">A comprehensive compilation of energetic and peppy songs every morning to get one in a good mood every day along with a dose of some fun and laughter.</desc>
@@ -25778,6 +25780,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ee59d0bdaaac849402aafd68d99bef9d.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260429060000 +0530" stop="20260429063000 +0530" channel="9x.jhakaas.in">
     <title lang="mr-IN">Bhaktinaad</title>
     <sub-title lang="mr-IN">A compilation of some of the most famous devotional songs are played back to back in order to help the audience find spirituality</sub-title>
@@ -26650,7 +26653,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ee59d0bdaaac849402aafd68d99bef9d.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260501063000 +0530" stop="20260501070000 +0530" channel="9x.jhakaas.in">
     <title lang="mr-IN">Bhaktinaad</title>
     <sub-title lang="mr-IN">A compilation of some of the most famous devotional songs are played back to back in order to help the audience find spirituality</sub-title>
@@ -27869,6 +27871,7 @@
     <episode-num system="onscreen">E8</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260430105400 +0530" stop="20260430114600 +0530" channel="discovery.hd.world.in">
     <title lang="en-GB">18 Wheels Across India</title>
     <desc lang="en-GB">A popular Polish lorry driver undertakes the daunting task of navigating India's notorious and chaotic road networks, all while exploring the culture.</desc>
@@ -28624,6 +28627,7 @@
     <episode-num system="onscreen">E24</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260430013000 +0530" stop="20260430020000 +0530" channel="tlc.hd.in">
     <title lang="en-GB">Cake Boss</title>
     <desc lang="en-GB">Buddy creates an intricate cake for Sofia's graduation, and a colourful cake for the Indian Holi festival brightens the bakery.</desc>
@@ -28902,7 +28906,6 @@
     <episode-num system="onscreen">E5</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20260430163100 +0530" stop="20260430170100 +0530" channel="tlc.hd.in">
     <title lang="en-GB">Say Yes to the Dress: Asia</title>
     <desc lang="en-GB">Mee Wei isn't afraid to flaunt her curves, but most bridal boutiques do not carry dresses in her size. Ellice is worried her dress might be too sexy.</desc>
@@ -30705,7 +30708,6 @@
     <episode-num system="onscreen">E6</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20260501000000 +0530" stop="20260501005700 +0530" channel="discovery.science.in">
     <title lang="en-GB">Haunted Towns</title>
     <desc lang="en-GB">The Tennessee Wraith Chasers travel to the Jersey Shore to explore the paranormal history of holiday town Cape May. There, they investigate the town's infamous Emlyn Physick Estate.</desc>
@@ -30969,6 +30971,7 @@
     <episode-num system="onscreen">E1</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260501181200 +0530" stop="20260501190700 +0530" channel="discovery.science.in">
     <title lang="en-GB">You Have Been Warned</title>
     <desc lang="en-GB">Turns the spotlight on inventors who build astonishing creations in their homes, including a precision drone-catcher that transforms into a vacuum-powered railway.</desc>
@@ -32212,6 +32215,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/144c7cdf54e9ccc095b77f97e005982a.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260430220000 +0530" stop="20260430223000 +0530" channel="9xm.in">
     <title lang="hi-IN">9&#2319;&#2325;&#2381;&#2360;&#2319;&#2350; &#2350;&#2381;&#2351;&#2370;&#2332;&#2367;&#2325; &#2311;&#2343;&#2352; &#2361;&#2376;</title>
     <desc lang="hi-IN">A comprehensive compilation of some of the hit songs composed by renowned artists and musicians is played back-to-back along with some popular jokes.</desc>
@@ -33045,6 +33049,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fe24148331dabf33ec5c5d3e9a873df0.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260429020000 +0530" stop="20260429050000 +0530" channel="zoom.in">
     <title lang="hi-IN">&#2344;&#2366;&#2311;&#2335;&#2310;&#2313;&#2335;</title>
     <sub-title lang="hi-IN">An extensive compilation of some of the catchiest foot-tapping hits from various musical artists is played back to back</sub-title>
@@ -33233,7 +33238,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e602fc0a38368baf533e74f9761aab4a.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260430130000 +0530" stop="20260430150000 +0530" channel="zoom.in">
     <title lang="hi-IN">&#2352;&#2367;&#2325;&#2381;&#2357;&#2375;&#2360;&#2381;&#2335; &#2357;&#2366;&#2354;&#2366; &#2358;&#2379;</title>
     <sub-title lang="hi-IN">A comprehensive compilation of popular songs composed by well-known artists is played back to back at the request of ardent fans</sub-title>
@@ -33890,7 +33894,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d072d8dc032909b184156ec6fc90e043.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260429193000 +0530" stop="20260429200000 +0530" channel="9x.tashan.in">
     <title lang="pa-IN">AI Wala Show</title>
     <desc lang="pa-IN">The host presents the latest updates and developments from the world of artificial intelligence and shares the best AI tools useful for various tasks.</desc>
@@ -34666,6 +34669,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/120d5a2199861a6c29ee2961452c80b5.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260501200000 +0530" stop="20260501203000 +0530" channel="9x.tashan.in">
     <title lang="pa-IN">9x Tashan Shayarism</title>
     <desc lang="pa-IN">A comprehensive compilation of some of the most popular musical numbers is played back-to-back to entertain the audience.</desc>
@@ -34945,7 +34949,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6465bbe741e47d40284bc617f73a3513.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260502133000 +0530" stop="20260502140000 +0530" channel="9x.tashan.in">
     <title lang="pa-IN">Ullu Da Patha's Playlist</title>
     <desc lang="pa-IN">A comprehensive compilation of some of the most popular songs by renowned artists from across the country is played back to back.</desc>
@@ -36030,7 +36033,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9250fa5253c3de7bebeeee12e6ce6d4b.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260430030000 +0530" stop="20260430040000 +0530" channel="cn.hd+.english.in">
     <title lang="en-GB">The Tom and Jerry Show</title>
     <desc lang="en-GB">Tenacious cat Tom is forever on the tail of his elusive nemesis, Jerry the mouse. But as much as they hate each other, the two also share a warm bond.</desc>
@@ -39736,6 +39738,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8b1fff860e33ef86e3cd9df3dbc4b9d3.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260430000000 +0530" stop="20260430003000 +0530" channel="star.sports.2.hindi.hd.in">
     <title lang="en-GB">TATA IPL Highlights</title>
     <desc lang="en-GB">A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament.</desc>
@@ -40794,6 +40797,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/be5d04ba564230eba37dec13029bfc67.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260502020000 +0530" stop="20260502023000 +0530" channel="star.sports.2.hindi.hd.in">
     <title lang="en-GB">TATA IPL Highlights</title>
     <desc lang="en-GB">A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament.</desc>
@@ -41048,6 +41052,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ef784a20a6c41cc8cf91d7af213089e8.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260502141500 +0530" stop="20260502143000 +0530" channel="star.sports.2.hindi.hd.in">
     <title lang="en-GB">TATA IPL 2025 Highlights</title>
     <desc lang="en-GB">A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament.</desc>
@@ -41870,6 +41875,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/be5d04ba564230eba37dec13029bfc67.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260430043000 +0530" stop="20260430050000 +0530" channel="star.sports.khel.in">
     <title lang="hi-IN">&#2310;&#2312;&#2346;&#2368;&#2319;&#2354; &#2361;&#2366;&#2311;&#2354;&#2366;&#2311;&#2335;&#2381;&#2360;</title>
     <sub-title lang="hi-IN">A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament</sub-title>
@@ -41878,7 +41884,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/be5d04ba564230eba37dec13029bfc67.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260430050000 +0530" stop="20260430053000 +0530" channel="star.sports.khel.in">
     <title lang="hi-IN">&#2310;&#2312;&#2346;&#2368;&#2319;&#2354; &#2361;&#2366;&#2311;&#2354;&#2366;&#2311;&#2335;&#2381;&#2360;</title>
     <sub-title lang="hi-IN">A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament</sub-title>
@@ -42201,7 +42206,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ef784a20a6c41cc8cf91d7af213089e8.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260430164500 +0530" stop="20260430170000 +0530" channel="star.sports.khel.in">
     <title lang="hi-IN">&#2310;&#2312;&#2346;&#2368;&#2319;&#2354; &#2361;&#2366;&#2311;&#2354;&#2366;&#2311;&#2335;&#2381;&#2360;</title>
     <sub-title lang="hi-IN">A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament</sub-title>
@@ -43586,6 +43590,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p30514065_b_h9_ac.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E293</episode-num>
   </programme>
+  
 <programme channel="zee.tv.hd.in" start="20260429040000 +0530" stop="20260429043000 +0530">
     <title lang="en">Ganga Mai Ki Betiyaan</title>
     <desc lang="en">After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
@@ -44921,7 +44926,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/43fd2db4f49312b1450d1539a8374d6d.jpg" />
     <premiere />
   </programme>
-  
 <programme channel="9x.jalwa.in" start="20260501020000 +0530" stop="20260501023000 +0530">
     <title lang="hi-IN">&#2352;&#2366;&#2340; &#2349;&#2352;</title>
     <desc lang="hi-IN">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
@@ -45625,6 +45629,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c8c15e232a5e201486c63afa6481623.jpg" />
     <premiere />
   </programme>
+  
 <programme channel="9x.jalwa.in" start="20260502230000 +0530" stop="20260502233000 +0530">
     <title lang="hi-IN">&#2332;&#2354;&#2357;&#2366; &#2325;&#2381;&#2354;&#2366;&#2360;&#2367;&#2325;&#2381;&#2360;</title>
     <desc lang="hi-IN">A comprehensive complication of popular songs composed and performed by renowned artists is played back-to-back to entertain the audience.</desc>
@@ -54391,7 +54396,6 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p247116_b_h9_ai.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="star.sports.khel.in" start="20260429070000 +0530" stop="20260429073000 +0530">
     <title lang="en">2026: Delhi Capitals vs. Royal Challengers Bengaluru 39th Match; TATA IPL Highlights</title>
     <desc lang="en">A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament.</desc>
@@ -56603,6 +56607,7 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p7859053_b_h9_ac.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="9x.jhakaas.in" start="20260429030000 +0530" stop="20260429033000 +0530">
     <title lang="en">SOLID HITS</title>
     <desc lang="en">A compilation of some of the greatest hits songs in popular Bollywood movies featuring renowned singers, musicians and artists.</desc>
@@ -59836,7 +59841,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p24723429_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  
 <programme channel="colors.infinity.hd.in" start="20260429170000 +0530" stop="20260429180000 +0530">
     <title lang="en">Elementary</title>
     <desc lang="en">Holmes, accompanied by a new apprentice, comes back to work with the NYPD after his dismissal from London&#8217;s MI6. Regrettably, Joan, the NYPD's newly appointed PI, needs to provide her consent first.</desc>
@@ -60725,7 +60729,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p25776891_b_h9_ab.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E221</episode-num>
   </programme>
-  
 <programme channel="colors.super.in" start="20260429003000 +0530" stop="20260429010000 +0530">
     <title lang="en">Shiva Shakthi</title>
     <desc lang="en">Parvati and Lord Shiva are overjoyed as Karthikeya finally eats the kheer. Meanwhile, Devi Swaroopa earnestly implores Karthikeya to acknowledge Parvati as his true mother. Will he heed her words?</desc>
@@ -65240,6 +65243,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p13441039_b_h9_ab.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
+  
 <programme channel="discovery.turbo.in" start="20260429020000 +0530" stop="20260429030000 +0530">
     <title lang="en">Salvage Hunters: Classic Cars</title>
     <desc lang="en">Salvage aficionado Drew Pritchard teams up with Paul Cowland for a motoring mission. They scour the UK, buying, restoring and selling classic cars.</desc>
@@ -65312,7 +65316,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p26600902_b_h9_ab.jpg?lock=880x660" />
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  
 <programme channel="discovery.turbo.in" start="20260429070000 +0530" stop="20260429080000 +0530">
     <title lang="en">Kings of Crash</title>
     <desc lang="en">Johnny and Dalton Gullo hope to make it a family affair in the main event, while disqualified drivers Ryan and Katy Sweat argue with officials.</desc>
@@ -67591,6 +67594,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p3632895_b_h9_ab.jpg?lock=880x660" />
     <episode-num system="onscreen">S16 E41</episode-num>
   </programme>
+  
 <programme channel="mtv.in" start="20260429183000 +0530" stop="20260429191500 +0530">
     <title lang="en">Splitsvilla X6 Behind the Villa</title>
     <desc lang="en">Peek behind the curtain at Splitsvilla's raw, unscripted moments, revealing contestants' true colours and backstage drama.</desc>
@@ -67692,6 +67696,7 @@
     <category lang="en">Factual Entertainment</category>
     <icon src="https://dtil.tmsimg.com/assets/p19293034_b_h9_ah.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="nat.geo.wild.hd.in" start="20260429060000 +0530" stop="20260429063000 +0530">
     <title lang="en">World of the Wild</title>
     <desc lang="en">An insight into the depths of diverse habitats, where wildlife and the environment co-exist as well as test their survival skills.</desc>
@@ -68592,6 +68597,7 @@
     <category lang="pl">magazyn turystyczny</category>
     <episode-num system="onscreen">E3</episode-num>
   </programme>
+  
 <programme channel="travelxp.hd.in" start="20260429003000 -0500" stop="20260429010000 -0500">
     <title lang="pl">World Heritage</title>
     <sub-title lang="pl">Abandoned City of Champaner, India</sub-title>
@@ -70819,6 +70825,7 @@
     <category lang="pl">Zeichentrickserie</category>
     <episode-num system="onscreen">E19</episode-num>
   </programme>
+  
 <programme channel="nick.in" start="20260429111500 -0500" stop="20260429114500 -0500">
     <title lang="pl">SpongeBob Schwammkopf</title>
     <title lang="xx">SpongeBob SquarePants</title>
@@ -72156,6 +72163,7 @@
     <category lang="pl">Zeichentrickserie</category>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
+  
 <programme channel="nick.in" start="20260502022500 -0500" stop="20260502025000 -0500">
     <title lang="pl">Wylde Pak</title>
     <sub-title lang="pl">Voll vergiftet / Sungandeul</sub-title>
@@ -72442,7 +72450,6 @@
     <category lang="pl">Animationsserie</category>
     <episode-num system="onscreen">E13</episode-num>
   </programme>
-  
 <programme channel="nick.in" start="20260502191000 -0500" stop="20260502193500 -0500">
     <title lang="pl">Die Patrick Star Show 3</title>
     <sub-title lang="pl">Der Spa&#223;-Eimer / Die Patrick Show in der Nacht</sub-title>
@@ -74775,6 +74782,7 @@ Jamie Theakston pr&#243;buje ustali&#263;, czym naprawd&#281; by&#322; &#346;wi&
     <date>2025</date>
     <category lang="pl">reality show</category>
   </programme>
+  
 <programme channel="tlc.hd.in" start="20260502020000 -0500" stop="20260502030000 -0500">
     <title lang="pl">W&#322;oski salon pi&#281;kno&#347;ci 2</title>
     <title lang="xx">Unpolished : Catch Up Special</title>
@@ -75219,7 +75227,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <date>2008</date>
     <category lang="pl">film biograficzny</category>
   </programme>
-  
 <programme channel="bollywood.hd.in" start="20260429020000 -0500" stop="20260429044500 -0500">
     <title lang="pl">Zakaz wst&#281;pu</title>
     <title lang="xx">No Entry</title>
@@ -76324,6 +76331,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20260428061000 -0500" stop="20260428062000 -0500">
     <title lang="pl">Clarence</title>
     <sub-title lang="pl">Randka Clarence'a</sub-title>
@@ -76612,6 +76620,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S4E38</episode-num>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20260428120000 -0500" stop="20260428121000 -0500">
     <title lang="pl">Niesamowity &#347;wiat Gumballa 4</title>
     <title lang="xx">The Amazing World of Gumball 4</title>
@@ -77363,7 +77372,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E3</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20260429034000 -0500" stop="20260429035000 -0500">
     <title lang="pl">Niesamowity &#347;wiat Gumballa 5</title>
     <title lang="xx">The Amazing World of Gumball 5</title>
@@ -77570,6 +77578,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S5E26</episode-num>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20260429074000 -0500" stop="20260429075000 -0500">
     <title lang="pl">M&#322;odzi Tytani: Akcja! 5</title>
     <title lang="xx">Teen Titans Go!</title>
@@ -77848,6 +77857,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S2E9</episode-num>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20260429133500 -0500" stop="20260429135500 -0500">
     <title lang="pl">Cudownie dziwny &#347;wiat Gumballa</title>
     <title lang="xx">The Wonderfully Weird World of Gumball</title>
@@ -77940,7 +77950,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S7E3</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20260429152500 -0500" stop="20260429153500 -0500">
     <title lang="pl">Cudownie dziwny &#347;wiat Gumballa 2</title>
     <title lang="xx">The Wonderfully Weird World of Gumball</title>
@@ -78597,7 +78606,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S6E14</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20260430045500 -0500" stop="20260430051500 -0500">
     <title lang="pl">Niesamowity &#347;wiat Gumballa 6</title>
     <title lang="xx">The Amazing World of Gumball 6</title>
@@ -78899,7 +78907,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E4</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20260430104500 -0500" stop="20260430105500 -0500">
     <title lang="pl">Pora na przygod&#281;! 2</title>
     <title lang="xx">Adventure Time 2</title>
@@ -79108,6 +79115,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S5E5</episode-num>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20260430145500 -0500" stop="20260430150500 -0500">
     <title lang="pl">Zwyczajny serial 7</title>
     <sub-title lang="pl">Legenda lokalnych wiadomo&#347;ci</sub-title>
@@ -79637,7 +79645,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S5E49</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20260501015000 -0500" stop="20260501020000 -0500">
     <title lang="pl">Craig znad Potoku 4</title>
     <title lang="xx">Craig of the Creek</title>
@@ -79824,6 +79831,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S6E3</episode-num>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20260501054000 -0500" stop="20260501055000 -0500">
     <title lang="pl">Clarence</title>
     <sub-title lang="pl">Pan domu</sub-title>
@@ -80989,7 +80997,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E9</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20260502055000 -0500" stop="20260502061000 -0500">
     <title lang="pl">Zwyczajny serial</title>
     <title lang="xx">Regular Show</title>
@@ -81195,6 +81202,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S2E3</episode-num>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20260502100000 -0500" stop="20260502102000 -0500">
     <title lang="pl">Niesamowity &#347;wiat Gumballa 2</title>
     <title lang="xx">The Amazing World of Gumball 2</title>
@@ -81706,7 +81714,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S2E20</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20260502204000 -0500" stop="20260502205000 -0500">
     <title lang="pl">Niesamowity &#347;wiat Gumballa 2</title>
     <title lang="xx">The Amazing World of Gumball 2</title>
@@ -82058,7 +82065,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S2</episode-num>
   </programme>
-  
 <programme channel="discovery.science.in" start="20260428133000 -0500" stop="20260428140000 -0500">
     <title lang="pl">Jak to jest zrobione - samochody marze&#324; 2</title>
     <title lang="xx">How It's Made: Dream Cars 2</title>
@@ -82508,6 +82514,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S6</episode-num>
   </programme>
+  
 <programme channel="discovery.science.in" start="20260430050000 -0500" stop="20260430060000 -0500">
     <title lang="pl">Mega maszyny Alaski</title>
     <title lang="xx">Alaska Mega Machines 1</title>
@@ -82830,7 +82837,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <sub-title lang="pl">Bestie z Arktyki</sub-title>
     <category lang="pl">serial dokumentalny</category>
   </programme>
-  
 <programme channel="discovery.science.in" start="20260501050000 -0500" stop="20260501060000 -0500">
     <title lang="pl">Mega maszyny Alaski</title>
     <title lang="xx">Alaska Mega Machines 1</title>
@@ -83784,6 +83790,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E113</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20260428124000 -0500" stop="20260428125000 -0500">
     <title lang="pl">Blue 3</title>
     <title lang="xx">Bluey 3</title>
@@ -84049,6 +84056,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20260428212000 -0500" stop="20260428213000 -0500">
     <title lang="pl">Blue</title>
     <title lang="xx">Bluey</title>
@@ -84573,6 +84581,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E127</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20260429130000 -0500" stop="20260429131000 -0500">
     <title lang="pl">Blue 3</title>
     <title lang="xx">Bluey 3</title>
@@ -84838,6 +84847,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E38</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20260429214000 -0500" stop="20260429214500 -0500">
     <title lang="pl">Blue</title>
     <title lang="xx">Bluey</title>
@@ -85361,6 +85371,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20260430143000 -0500" stop="20260430150000 -0500">
     <title lang="pl">Superkoty 2</title>
     <title lang="xx">SuperKitties: Su-Purr Charged</title>
@@ -85693,7 +85704,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E142</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20260501035000 -0500" stop="20260501040000 -0500">
     <title lang="pl">Blue 3</title>
     <title lang="xx">Bluey 3</title>
@@ -85960,7 +85970,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E128</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20260501124000 -0500" stop="20260501125000 -0500">
     <title lang="pl">Blue 3</title>
     <title lang="xx">Bluey 3</title>
@@ -87190,6 +87199,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E27</episode-num>
   </programme>
+  
 <programme channel="disney.channel.in" start="20260428052000 -0500" stop="20260428055000 -0500">
     <title lang="pl">Miraculous: Biedronka i Czarny Kot 3</title>
     <title lang="xx">Miraculous, les aventures de Ladybug et Chat Noir</title>
@@ -88322,7 +88332,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  
 <programme channel="disney.channel.in" start="20260429223500 -0500" stop="20260429224500 -0500">
     <title lang="pl">Dziewczyna, ch&#322;opak, itd</title>
     <title lang="xx">Boy Girl Dog Cat Mouse Cheese</title>
@@ -89889,7 +89898,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <date>1998</date>
     <category lang="pl">film animowany</category>
   </programme>
-  
 <programme channel="disney.channel.in" start="20260502131000 -0500" stop="20260502132000 -0500">
     <title lang="pl">Chomi i Greta</title>
     <title lang="xx">Hamster \u0026 Gretel: Splits</title>
@@ -90705,7 +90713,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
       <value>PG</value>
     </rating>
   </programme>
-  
 <programme channel="sony.max.2.in" start="20260428033800 +0000" stop="20260428060000 +0000">
     <title lang="en">Bundal Baaz</title>
     <desc lang="en">Trash collector Raja finds a magic lamp with a genie that insists on helping him. After a few disastrous adventures, Raja tries to get rid of the pesky genie.</desc>
@@ -91189,6 +91196,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
       <value>PG</value>
     </rating>
   </programme>
+  
 <programme channel="sony.sab.in" start="20260428032800 +0000" stop="20260428035000 +0000">
     <title lang="en">Pushpa Impossible</title>
     <desc lang="en">Pushpa Patel, a small entrepreneur and an endearing mother of three faces life's challenges with resilience and courage. Her constant pursuit of living a good life serves as an inspiration to many.</desc>
@@ -93227,6 +93235,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="en">Drama</category>
     <icon src="https://images.metadata.sky.com/pd-image/ffd5542d-92db-4a48-99ac-ab98748a2e7c/16-9" />
   </programme>
+  
 <programme channel="zee.tv.hd.in" start="20260428023000 +0000" stop="20260428030000 +0000">
     <title lang="en">Tumm Se Tumm Tak</title>
     <desc lang="en">Anu, a kind 20-year-old, and Aryavardhan, a resolute 45-year-old businessman, defy societal norms and family resistance, overcoming struggles to demonstrate that love transcends age or boundaries.</desc>
@@ -93321,7 +93330,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="en">Drama</category>
     <icon src="https://images.metadata.sky.com/pd-image/8862528d-499e-47cd-adbf-1eef87507f3e/16-9" />
   </programme>
-  
 <programme channel="zee.tv.hd.in" start="20260428100000 +0000" stop="20260428103000 +0000">
     <title lang="en">Tumm Se Tumm Tak</title>
     <desc lang="en">Anu, a kind 20-year-old, and Aryavardhan, a resolute 45-year-old businessman, defy societal norms and family resistance, overcoming struggles to demonstrate that love transcends age or boundaries.</desc>
@@ -93700,6 +93708,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="en">Drama</category>
     <icon src="https://images.metadata.sky.com/pd-image/36a001a1-f228-4754-9ae5-334564542843/16-9" />
   </programme>
+  
 <programme channel="zee.tv.hd.in" start="20260429143000 +0000" stop="20260429150000 +0000">
     <title lang="en">Ganga Mai Ki Betiyan</title>
     <desc lang="en">Abandoned for not bearing a son, Ganga defiantly raises her three daughters in Varanasi, and their hard-won triumphs become her greatest victory despite injustice and hardship.</desc>
@@ -93936,6 +93945,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="en">Drama</category>
     <icon src="https://images.metadata.sky.com/pd-image/e2b46414-b6bf-4806-86cb-9e81d8342b38/16-9" />
   </programme>
+  
 <programme channel="zee.tv.hd.in" start="20260430100000 +0000" stop="20260430103000 +0000">
     <title lang="en">Tumm Se Tumm Tak</title>
     <desc lang="en">Anu, a kind 20-year-old, and Aryavardhan, a resolute 45-year-old businessman, defy societal norms and family resistance, overcoming struggles to demonstrate that love transcends age or boundaries.</desc>
@@ -94030,7 +94040,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="en">Drama</category>
     <icon src="https://images.metadata.sky.com/pd-image/c74e298c-73f6-4985-bfa5-25bd93e051e4/16-9" />
   </programme>
-  
 <programme channel="zee.tv.hd.in" start="20260430163000 +0000" stop="20260430170000 +0000">
     <title lang="en">Jagadhatri</title>
     <desc lang="en">A daughter's fight for dignity and an intelligence officer's war for truth, Jagadhatri's dual life embodies strength, sacrifice and the relentless pursuit of justice.</desc>
@@ -94172,6 +94181,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="en">Drama</category>
     <icon src="https://images.metadata.sky.com/pd-image/4d91fb90-7118-4749-a0a0-2c6680d9a875/16-9" />
   </programme>
+  
 <programme channel="zee.tv.hd.in" start="20260501040000 +0000" stop="20260501050000 +0000">
     <title lang="en">Lakshmi Nivas</title>
     <desc lang="en">Lakshmi, a determined woman, tackles the ups and downs of life in a traditional joint family, supporting her husband Shriniwas as he works tirelessly to create their dream home.</desc>
@@ -94408,6 +94418,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="en">Drama</category>
     <icon src="https://images.metadata.sky.com/pd-image/f88b5fd9-8de2-4469-8bcd-92d5bd1cfd2a/16-9" />
   </programme>
+  
 <programme channel="zee.tv.hd.in" start="20260501220000 +0000" stop="20260501233000 +0000">
     <title lang="en">SRGMP 2025-2026</title>
     <desc lang="en">A season filled with a stellar panel, fresh voices, and powerful performances. Watch talented singers chase big dreams and create unforgettable musical moments.</desc>
@@ -94836,6 +94847,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
       <value>U</value>
     </rating>
   </programme>
+  
 <programme channel="skysp.cricket.in" start="20260429183000 +0000" stop="20260429184500 +0000">
     <title lang="en">ICC Men's T20 WC: ENG v SA 2016</title>
     <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2016 clash with South Africa.</desc>
@@ -95842,6 +95854,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <icon src="https://images.metadata.sky.com/pd-image/0eafd47e-d33d-3666-b76b-11f03034caa4/16-9" />
     <episode-num system="xmltv_ns">12.1.</episode-num>
   </programme>
+  
 <programme channel="tlc.hd.in" start="20260429050000 +0000" stop="20260429053000 +0000">
     <title lang="en">Teleshopping</title>
     <desc lang="en">Teleshopping.</desc>
@@ -96652,6 +96665,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <icon src="https://images.metadata.sky.com/pd-image/2a2bcefb-0111-48b9-86bb-18c699cea1bd/16-9" />
     <episode-num system="xmltv_ns">5.3.</episode-num>
   </programme>
+  
 <programme channel="tlc.hd.in" start="20260501073000 +0000" stop="20260501080000 +0000">
     <title lang="en">Young Sheldon</title>
     <sub-title lang="en">A Rival Prodigy</sub-title>
@@ -96945,7 +96959,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="en">World Affairs</category>
     <icon src="https://images.metadata.sky.com/pd-image/14153602-bcf4-41e2-987d-5f56c0a6528f/16-9" />
   </programme>
-  
 <programme channel="aaj.tak.in" start="20260428013000 +0000" stop="20260428020000 +0000">
     <title lang="en">Dastak</title>
     <desc lang="en">Special news segment and detailed analysis based program, presented by Sayeed Ansari.</desc>
@@ -97689,6 +97702,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="en">World Affairs</category>
     <icon src="https://images.metadata.sky.com/pd-image/f2220e51-69aa-42a7-bb31-12b4c3c943cf/16-9" />
   </programme>
+  
 <programme channel="aaj.tak.in" start="20260430000000 +0000" stop="20260430003000 +0000">
     <title lang="en">Black And White</title>
     <desc lang="en">Special news coverage, thorough analysis &amp; diverse perspectives, Anchored by Anjana Om Kashyap.</desc>
@@ -97976,6 +97990,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="en">World Affairs</category>
     <icon src="https://images.metadata.sky.com/pd-image/e814134f-d344-4c73-a2f5-a8fc2363e486/16-9" />
   </programme>
+  
 <programme channel="aaj.tak.in" start="20260430180000 +0000" stop="20260430183000 +0000">
     <title lang="en">Aaj Tak Punjab</title>
     <desc lang="en">Aajtak special bulletin on the news specifically from Punjab.</desc>
@@ -99593,6 +99608,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <category lang="en">Entertainment</category>
     <icon src="https://images.metadata.sky.com/pd-image/7341b135-b6f0-41b6-aaee-386523c27158/16-9" />
   </programme>
+  
 <programme channel="b4u.music.in" start="20260430230000 +0000" stop="20260501000000 +0000">
     <title lang="en">Aawaaz De Kahan Hai</title>
     <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
@@ -99968,7 +99984,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
       <value>PG</value>
     </rating>
   </programme>
-  
 <programme channel="colors.hd.in" start="20260428042500 +0000" stop="20260428050000 +0000">
     <title lang="en">Seher Hone Ko Hai</title>
     <desc lang="en">Seher, a young girl in Lucknow, is determined to become a doctor. Her mother, Kausar, supports her dream, while her father's plans for marriage spark conflict.</desc>
@@ -100458,6 +100473,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
       <value>PG</value>
     </rating>
   </programme>
+  
 <programme channel="colors.hd.in" start="20260429042500 +0000" stop="20260429050000 +0000">
     <title lang="en">Seher Hone Ko Hai</title>
     <desc lang="en">Seher, a young girl in Lucknow, is determined to become a doctor. Her mother, Kausar, supports her dream, while her father's plans for marriage spark conflict.</desc>
@@ -101380,6 +101396,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
       <value>PG</value>
     </rating>
   </programme>
+  
 <programme channel="colors.hd.in" start="20260501013000 +0000" stop="20260501020000 +0000">
     <title lang="en">Do Duniya Ek Dil</title>
     <desc lang="en">Honest tech visionary Shivaay loses faith in technology after being scammed. When he falls for digital influencer Aadhya, their opposing worlds collide, testing love, trust, and beliefs.</desc>
@@ -101876,7 +101893,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <icon src="https://images.metadata.sky.com/pd-image/6c13c3ab-c304-464c-8396-1fbfcf6f9e46/16-9" />
     <episode-num system="xmltv_ns">1.17.</episode-num>
   </programme>
-  
 <programme channel="mtv.hd.in" start="20260428014500 +0000" stop="20260428023500 +0000">
     <title lang="en">Ink Master: Battle of the Sexes</title>
     <desc lang="en">Team leaders emerge in a shocking new season-long twist that sends the Artists a wake-up call and shakes up the Competition. The Battle continues for $100K and the title of Ink Master.</desc>
@@ -105115,6 +105131,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
+  
 <programme channel="national.geographic.hd.in" start="20260429113000 +0000" stop="20260429120000 +0000">
     <title lang="en">NEW! Shark PowerDetect with DuoClean Detect Technology</title>
     <desc lang="en">Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
@@ -105871,6 +105888,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
     <icon src="http://dtil.tmsimg.com/assets/p17463183_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
+  
 <programme channel="national.geographic.hd.in" start="20260430123000 +0000" stop="20260430130000 +0000">
     <title lang="en">Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
     <desc lang="en">See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
@@ -107738,6 +107756,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
       <value>A12</value>
     </rating>
   </programme>
+  
 <programme channel="vh1.hd.in" start="20260428143000 +0000" stop="20260428150000 +0000">
     <title lang="en">Guy Code</title>
     <sub-title lang="en">Having sex, male bonding, and a roommates update</sub-title>
@@ -108967,6 +108986,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
       <value>PG</value>
     </rating>
   </programme>
+  
 <programme channel="vh1.hd.in" start="20260429133000 +0000" stop="20260429140000 +0000">
     <title lang="en">Flip Side</title>
     <sub-title lang="en">I'm Stoked!</sub-title>
@@ -112669,6 +112689,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
 <programme start="20260430034500 +0700" stop="20260430040500 +0700" channel="mtv.in">
     <title lang="en">Ridiculousness</title>
   </programme>
+  
 <programme start="20260430040500 +0700" stop="20260430043000 +0700" channel="mtv.in">
     <title lang="en">Ridiculousness</title>
   </programme>
@@ -112732,7 +112753,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
 <programme start="20260430230000 +0700" stop="20260501050000 +0700" channel="mtv.in">
     <title lang="en">MTV</title>
   </programme>
-  
 <programme start="20260501050000 +0700" stop="20260501110000 +0700" channel="mtv.in">
     <title lang="en">MTV</title>
   </programme>
@@ -113100,6 +113120,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
 <programme start="20260430010000 +0700" stop="20260430020000 +0700" channel="tlc.hd.in">
     <title lang="en">90 Day: The Single Life</title>
   </programme>
+  
 <programme start="20260430020000 +0700" stop="20260430030000 +0700" channel="tlc.hd.in">
     <title lang="en">90 Day: The Single Life</title>
   </programme>
@@ -113159,7 +113180,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
 <programme start="20260430124000 +0700" stop="20260430130500 +0700" channel="tlc.hd.in">
     <title lang="en">Extreme Cheapskates</title>
   </programme>
-  
 <programme start="20260430130500 +0700" stop="20260430135000 +0700" channel="tlc.hd.in">
     <title lang="en">My 600-lb Life</title>
   </programme>
@@ -114027,6 +114047,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
 <programme start="20260430110000 +0700" stop="20260430110500 +0700" channel="disney.channel.in">
     <title lang="en">Chibi Tiny Tales</title>
   </programme>
+  
 <programme start="20260430110500 +0700" stop="20260430111000 +0700" channel="disney.channel.in">
     <title lang="en">Chibi Tiny Tales</title>
   </programme>
@@ -114478,7 +114499,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
 <programme start="20260502041000 +0700" stop="20260502043000 +0700" channel="disney.channel.in">
     <title lang="en">Amphibia</title>
   </programme>
-  
 <programme start="20260502043000 +0700" stop="20260502045000 +0700" channel="disney.channel.in">
     <title lang="en">Amphibia</title>
   </programme>
@@ -114946,6 +114966,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
 <programme start="20260429182500 +0700" stop="20260429185000 +0700" channel="disney.junior.in">
     <title lang="en">Mickey Mouse Clubhouse</title>
   </programme>
+  
 <programme start="20260429185000 +0700" stop="20260429191500 +0700" channel="disney.junior.in">
     <title lang="en">Superkitties</title>
   </programme>
@@ -115369,6 +115390,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
 <programme start="20260430210000 +0700" stop="20260430211000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
+  
 <programme start="20260430211000 +0700" stop="20260430211500 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
@@ -115792,6 +115814,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
 <programme start="20260501231000 +0700" stop="20260501233500 +0700" channel="disney.junior.in">
     <title lang="en">Spidey and His Amazing Friends</title>
   </programme>
+  
 <programme start="20260501233500 +0700" stop="20260502000000 +0700" channel="disney.junior.in">
     <title lang="en">Iron Man and His Awesome Friends</title>
   </programme>
@@ -115851,7 +115874,6 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
 <programme start="20260502030500 +0700" stop="20260502033000 +0700" channel="disney.junior.in">
     <title lang="en">Pupstruction</title>
   </programme>
-  
 <programme start="20260502033000 +0700" stop="20260502034000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
@@ -116219,6 +116241,7 @@ Anna podczas wsp&#243;&#322;&#380;ycia nie odczuwa dozna&#324; seksualnych. Po t
 <programme start="20260503005000 +0700" stop="20260503005500 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
+  
 <programme start="20260503005500 +0700" stop="20260503010500 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
