@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="filtered_epg" date="20260504143827 +0000">
+<tv generator-info-name="filtered_epg" date="20260504171006 +0000">
 <channel id="star.life.in">
     <display-name lang="sq">Star Life</display-name>
     <url>http://www.ipko.com</url>
@@ -706,7 +706,6 @@
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">STAR BHARAT HD</display-name>
   <icon src="http://94.156.33.106/logos2/star_bharathd.jpg" /></channel>
-  
 <channel id="sony.sab.in">
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">SONY SAB</display-name>
@@ -1281,6 +1280,7 @@
     <category lang="sq">Serial</category>
     <icon src="https://vimg.ipko.tv/mtcms/e0/b/2/e0b2da55-f384-4e8f-ae28-25572224cd0e.jpg" />
   </programme>
+  
 <programme start="20260504160000 +0000" stop="20260504170000 +0000" channel="star.life.in">
     <title lang="sq">S1E5 - Pesha e Prov&#235;s</title>
     <desc lang="sq">Qasja unike e ekspertes mjek&#235;sore Megan Hunt p&#235;r zgjidhjen e krimeve e v&#235; at&#235; n&#235; kund&#235;rshtim me epror&#235;t e saj.</desc>
@@ -1904,6 +1904,7 @@
     <category lang="sq">Serial</category>
     <icon src="https://vimg.ipko.tv/mtcms/90/c/2/90c26b50-9c9e-410b-a013-f107602e34fc.jpg" />
   </programme>
+  
 <programme start="20260506180000 +0000" stop="20260506190000 +0000" channel="star.life.in">
     <title lang="sq">S2E12 - 9-1-1: Lone Star</title>
     <desc lang="sq">Nj&#235; zjarrfik&#235;s i Nju Jorkut zhvendoset n&#235; Austin, Teksas me djalin e tij, ku punon p&#235;r t&#235; shp&#235;tuar jet&#235;n e njer&#235;zve nd&#235;rsa p&#235;rpiqet t&#235; zgjidh&#235; problemet e tij personale.</desc>
@@ -2018,6 +2019,7 @@
       <value>NC</value>
     </rating>
   </programme>
+  
 <programme start="20260503013000 +0000" stop="20260503023000 +0000" channel="foxcricket.in">
     <title lang="en">IPL: Super Kings v Mumbai</title>
     <sub-title lang="en">Super Kings v Mumbai</sub-title>
@@ -3134,7 +3136,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  
 <programme start="20260506071000 +0000" stop="20260506073000 +0000" channel="foxcricket.in">
     <title lang="en">IPL Mini: SRH v KKR</title>
     <sub-title lang="en">SRH v KKR</sub-title>
@@ -5853,7 +5854,6 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115" />
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  
 <programme channel="discovery.science.in" start="20260507130800 +0000" stop="20260507135700 +0000">
     <title lang="en">Ancient Unexplained Files</title>
     <sub-title lang="en">Mystery On Easter Island</sub-title>
@@ -9858,7 +9858,6 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch774_160_115" />
     <episode-num system="onscreen">S1 E64</episode-num>
   </programme>
-  
 <programme channel="sony.sab.in" start="20260506003000 +0000" stop="20260506005500 +0000">
     <title lang="en">Hui Gumm Yaadein</title>
     <sub-title lang="en">Hui Gumm Yaadein</sub-title>
@@ -11571,7 +11570,6 @@
     <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F20718168~~2FEP016056040126,imi:d6d859b96e9fd0a03218a1a219675a8407930ccd/posterTile?imageVersion=nUim6Q&amp;w=200" />
     <episode-num system="onscreen">S2021 E100726</episode-num>
   </programme>
-  
 <programme start="20260504043000 +0000" stop="20260504044500 +0000" channel="sky.sports.cricket.hd.ie">
     <title lang="en">ICC T20 World Cup</title>
     <sub-title lang="en">2014: England v Sri Lanka</sub-title>
@@ -12287,7 +12285,6 @@
     <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F20717935~~2FEP016056040115,imi:0a1de6f4b9055e231d0e8769270db75416ffed2b/posterTile?imageVersion=nUim6Q&amp;w=200" />
     <episode-num system="onscreen">S2021 E100415</episode-num>
   </programme>
-  
 <programme start="20260506181500 +0000" stop="20260506183000 +0000" channel="sky.sports.cricket.hd.ie">
     <title lang="en">ICC T20 World Cup</title>
     <sub-title lang="en">2014: England v Sri Lanka</sub-title>
@@ -12914,6 +12911,7 @@
     <episode-num system="onscreen">E1620</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260504153000 +0530" stop="20260504160000 +0530" channel="colors.hd.in">
     <title lang="hi-IN">&#2348;&#2366;&#2354;&#2367;&#2325;&#2366; &#2357;&#2343;&#2370; - &#2325;&#2325;&#2364;&#2330;&#2368; &#2313;&#2350;&#2352; &#2325;&#2375; &#2346;&#2325;&#2381;&#2325;&#2375; &#2352;&#2367;&#2358;&#2381;&#2340;&#2375;</title>
     <sub-title lang="hi-IN">Anandi, a child bride, married into an affluent family at a tender age, struggles to cope with the traditions. Soon, she overcomes multiple personal obstacles to emerge as an example for rural women</sub-title>
@@ -13076,6 +13074,7 @@
     <episode-num system="onscreen">E71</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260504220000 +0530" stop="20260504223000 +0530" channel="colors.hd.in">
     <title lang="hi-IN">&#2360;&#2361;&#2352; &#2361;&#2379;&#2344;&#2375; &#2325;&#2379; &#2361;&#2376;</title>
     <sub-title lang="hi-IN">Husna warmly welcomes Hyder and praises him in front of the gathered guests. Meanwhile, a trapped Mahid attempts to flee the rooftop so he can rush Seher to the hospital for emergency treatment</sub-title>
@@ -14201,7 +14200,6 @@
     <episode-num system="onscreen">E396</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20260507205700 +0530" stop="20260507213000 +0530" channel="colors.hd.in">
     <title lang="hi-IN">&#2350;&#2306;&#2327;&#2354; &#2354;&#2325;&#2381;&#2359;&#2381;&#2350;&#2368;</title>
     <sub-title lang="hi-IN">After Jairaj offers to invest in his venture, Adit asks Mangal to oversee the financial reports. Subsequently, Jairaj and Mangal conspire to unmask Adit, Saumya and Aarav</sub-title>
@@ -14846,6 +14844,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1bffcb802b70ef7b18b17435242f9d69.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260505043000 +0530" stop="20260505050000 +0530" channel="travelxp.hd.in">
     <title lang="en-GB">Viajar Mexico</title>
     <desc lang="en-GB">Enter Charlie Rubio: a bona fide Mexican, who is hosting in order to reveal all the wonderful things that make Mexico his favourite place in the world. This time, he visits Cancun.</desc>
@@ -17065,6 +17064,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/719780c773167b63decf7a0cb2ff5cb4.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260505123000 +0530" stop="20260505130000 +0530" channel="aaj.tak.in">
     <title lang="hi-IN">&#2348;&#2381;&#2352;&#2375;&#2325;&#2367;&#2306;&#2327; &#2344;&#2381;&#2351;&#2370;&#2332;&#2364;</title>
     <sub-title lang="hi-IN">The host presents numerous top stories, latest happenings and significant updates from the national and international front</sub-title>
@@ -17155,7 +17155,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7d5a1225c10d976fabee1cd8545cf0cc.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260505170000 +0530" stop="20260505173000 +0530" channel="aaj.tak.in">
     <title lang="hi-IN">&#2342;&#2306;&#2327;&#2354;</title>
     <sub-title lang="hi-IN">The host interacts with a panel of experts with contradicting opinions who talk about current social and political issues in the country</sub-title>
@@ -18488,6 +18487,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/129afe3f6a9e751bde0a8f01bf408441.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260504180000 +0530" stop="20260504190000 +0530" channel="b4u.music.in">
     <title lang="hi-IN">BOOM BOX</title>
     <sub-title lang="hi-IN">A comprehensive collection of the most popular Bollywood dance tracks and top club hits play back to back</sub-title>
@@ -19658,7 +19658,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/4a382c38fdd178e5bd69d1ab90acb1f8.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260505182800 +0530" stop="20260505185800 +0530" channel="india.tv.in">
     <title lang="hi-IN">&#2325;&#2377;&#2347;&#2368; &#2346;&#2352; &#2325;&#2369;&#2352;&#2369;&#2325;&#2381;&#2359;&#2375;&#2340;&#2381;&#2352;</title>
     <desc lang="hi-IN">The host provides insightful discussions on current affairs, centered around critical national and global issues, exploring key developments shaping India today.</desc>
@@ -19761,6 +19760,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ea0344479acfaafb3eaa46e3ad97a71c.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260506023000 +0530" stop="20260506030000 +0530" channel="india.tv.in">
     <title lang="hi-IN">&#2360;&#2381;&#2346;&#2375;&#2358;&#2354; &#2352;&#2367;&#2346;&#2379;&#2352;&#2381;&#2335;</title>
     <sub-title lang="hi-IN">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports</sub-title>
@@ -22986,6 +22986,7 @@
     <episode-num system="onscreen">E34</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260506163000 +0530" stop="20260506173000 +0530" channel="set.hd.in">
     <title lang="hi-IN">&#2348;&#2375;&#2360;&#2381;&#2335; &#2321;&#2398; &#2325;&#2381;&#2352;&#2366;&#2311;&#2350; &#2346;&#2375;&#2335;&#2381;&#2352;&#2379;&#2354;</title>
     <sub-title lang="hi-IN">A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own</sub-title>
@@ -23587,6 +23588,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/01759b6dc48ed3430d55e075354207ea.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260504073000 +0530" stop="20260504080000 +0530" channel="9x.jalwa.in">
     <title lang="hi-IN">&#2332;&#2354;&#2357;&#2366; &#2347;&#2367;&#2335; &#2361;&#2367;&#2335;&#2381;&#2360;</title>
     <desc lang="hi-IN">A comprehensive compilation of some of the most popular songs from various well-known artists and bands played in succession.</desc>
@@ -25239,6 +25241,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/56596f7c4d5e4fa10eff221d7ab66fc0.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260504143000 +0530" stop="20260504150000 +0530" channel="9x.jhakaas.in">
     <title lang="mr-IN">&#2360;&#2377;&#2354;&#2367;&#2337; &#2361;&#2367;&#2335;&#2381;&#2360;</title>
     <sub-title lang="mr-IN">A compilation of some of the greatest hits songs in popular Bollywood movies featuring renowned singers, musicians and artists</sub-title>
@@ -25679,7 +25682,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/56596f7c4d5e4fa10eff221d7ab66fc0.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260505150000 +0530" stop="20260505153000 +0530" channel="9x.jhakaas.in">
     <title lang="mr-IN">&#2352;&#2373;&#2346;&#2330;&#2367;&#2325; &#2360;&#2381;&#2357;&#2373;&#2327;</title>
     <sub-title lang="mr-IN">A comprehensive compilation of some of the most popular songs composed and performed by renowned singers and musicians is played</sub-title>
@@ -26273,6 +26275,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/55b5e14e2b106447793fb607fddbde97.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260507000000 +0530" stop="20260507003000 +0530" channel="9x.jhakaas.in">
     <title lang="mr-IN">&#2360;&#2377;&#2354;&#2367;&#2337; &#2361;&#2367;&#2335;&#2381;&#2360;</title>
     <sub-title lang="mr-IN">A compilation of some of the greatest hits songs in popular Bollywood movies featuring renowned singers, musicians and artists</sub-title>
@@ -26844,6 +26847,7 @@
     <episode-num system="onscreen">E4</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260504110000 +0530" stop="20260504112700 +0530" channel="discovery.hd.world.in">
     <title lang="en-GB">Man Eats Wild</title>
     <desc lang="en-GB">Mario Kalpou's passion for harvesting wild food through hunting and fishing leads him to some of the most extreme environments on the planet.</desc>
@@ -27298,7 +27302,6 @@
     <episode-num system="onscreen">E11</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20260505210000 +0530" stop="20260505220000 +0530" channel="discovery.hd.world.in">
     <title lang="en-GB">Ed Stafford's Rite of Passage</title>
     <desc lang="en-GB">Ed travels to Tanzania to meet the Hadzabe people, who live in harmony with their environment. He joins them as they face the challenge of collecting honey from aggressive bees.</desc>
@@ -28058,6 +28061,7 @@
     <episode-num system="onscreen">E2</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260504062700 +0530" stop="20260504065500 +0530" channel="tlc.hd.in">
     <title lang="en-GB">Say Yes to the Dress UK</title>
     <desc lang="en-GB">An entourage can be more of a hindrance than a help! Catherine's had trouble wedding dress shopping due to the opinions of her mum and her best man.</desc>
@@ -28330,6 +28334,7 @@
     <episode-num system="onscreen">E12</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260504230000 +0530" stop="20260504235959 +0530" channel="tlc.hd.in">
     <title lang="en-GB">You, Me \u0026 My Ex</title>
     <desc lang="en-GB">Old wounds lead to a giant fight on Jimmy and Lisa's RV trip. Ex-husband Josh questions his role in the baby's life as Jennifer and Chantel try for pregnancy. All hell breaks loose when Alex's sexuality comes into question at a family dinner.</desc>
@@ -31182,6 +31187,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/71a7203d97dae30fe85d3642863646e1.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260504143000 +0530" stop="20260504150000 +0530" channel="9xm.in">
     <title lang="hi-IN">9&#2319;&#2325;&#2381;&#2360;&#2319;&#2350; &#2348;&#2376;&#2332;&#2367;&#2354;&#2367;&#2351;&#2344; &#2357;&#2381;&#2351;&#2370;&#2332;</title>
     <desc lang="hi-IN">A comprehensive compilation of the most popular and best-loved songs from some of the biggest names in music is played back to back to entertain the audience.</desc>
@@ -31565,7 +31571,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/71a7203d97dae30fe85d3642863646e1.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260505140000 +0530" stop="20260505143000 +0530" channel="9xm.in">
     <title lang="hi-IN">9&#2319;&#2325;&#2381;&#2360;&#2319;&#2350; &#2348;&#2376;&#2332;&#2367;&#2354;&#2367;&#2351;&#2344; &#2357;&#2381;&#2351;&#2370;&#2332;</title>
     <desc lang="hi-IN">A comprehensive compilation of the most popular and best-loved songs from some of the biggest names in music is played back to back to entertain the audience.</desc>
@@ -32165,6 +32170,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3d89912e819d329ed4499133f243a0a2.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260507023000 +0530" stop="20260507030000 +0530" channel="9xm.in">
     <title lang="hi-IN">9&#2319;&#2325;&#2381;&#2360;&#2319;&#2350; &#2352;&#2366;&#2340; &#2349;&#2366;&#2352;</title>
     <desc lang="hi-IN">A compilation of some of the most popular Hindi songs by famous recording artists, played in succession for everyone to enjoy.</desc>
@@ -33036,6 +33042,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/732fd983b24051b568a227e73c802b42.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260504010000 +0530" stop="20260504013000 +0530" channel="9x.tashan.in">
     <title lang="pa-IN">Saari Raat</title>
     <desc lang="pa-IN">A comprehensive compilation of some of the most popular Bollywood soundtracks produced by various artists is played back-to-back to entertain the audience.</desc>
@@ -33299,6 +33306,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/37117e7fdd07bc3f4b568fb9c678ae69.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260504173000 +0530" stop="20260504180000 +0530" channel="9x.tashan.in">
     <title lang="pa-IN">Yaaran Di Gedi</title>
     <desc lang="pa-IN">A comprehensive compilation of popular songs composed and performed by talented artists is played back-to-back to entertain the audience.</desc>
@@ -34506,7 +34514,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c9fb9f31ddad7e1e0de689a55eba1661.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260507210000 +0530" stop="20260507213000 +0530" channel="9x.tashan.in">
     <title lang="pa-IN">Bade-Chote's Playlist</title>
     <desc lang="pa-IN">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
@@ -37466,7 +37473,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/be605c4c577446e3ce18591c8c4ab0fb.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260504151600 +0530" stop="20260504163000 +0530" channel="romedy.now.in">
     <title lang="en-GB">Movie</title>
     <desc lang="en-GB">Bringing the best in television.</desc>
@@ -38017,7 +38023,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/24c557b8ddb1e8f79c0258487dc8f43a.png" />
     <premiere />
   </programme>
-  
 <programme start="20260504080000 +0530" stop="20260504090000 +0530" channel="haryana.beats.in">
     <title lang="hi-IN">Haryana Beats</title>
     <desc lang="hi-IN">Haryana Beats.</desc>
@@ -38350,7 +38355,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/24c557b8ddb1e8f79c0258487dc8f43a.png" />
     <premiere />
   </programme>
-  
 <programme start="20260505210000 +0530" stop="20260505220000 +0530" channel="haryana.beats.in">
     <title lang="hi-IN">Haryana Beats</title>
     <desc lang="hi-IN">Haryana Beats.</desc>
@@ -38683,7 +38687,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/24c557b8ddb1e8f79c0258487dc8f43a.png" />
     <premiere />
   </programme>
-  
 <programme start="20260507100000 +0530" stop="20260507110000 +0530" channel="haryana.beats.in">
     <title lang="hi-IN">Haryana Beats</title>
     <desc lang="hi-IN">Haryana Beats.</desc>
@@ -40116,7 +40119,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/be5d04ba564230eba37dec13029bfc67.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260504100000 +0530" stop="20260504103000 +0530" channel="star.sports.khel.in">
     <title lang="hi-IN">&#2310;&#2313;&#2335; &#2324;&#2352; &#2310;&#2313;&#2335; &#2321;&#2347; &#2342; &#2346;&#2366;&#2352;&#2381;&#2325; - &#2310;&#2312;&#2346;&#2368;&#2319;&#2354; &#2319;&#2337;&#2367;&#2358;&#2344;</title>
     <desc lang="hi-IN">Cricket specialists candidly discuss various topics, including performances of the players, and match scenarios with intense analysis.</desc>
@@ -42375,6 +42377,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d2d0fa8027882dbb964f6164d82061cf.jpg" />
     <premiere />
   </programme>
+  
 <programme channel="9x.jalwa.in" start="20260506190000 +0530" stop="20260506193000 +0530">
     <title lang="hi-IN">&#2332;&#2354;&#2357;&#2366; &#2337;&#2381;&#2352;&#2366;&#2311;&#2357; &#2357;&#2366;&#2354;&#2368; &#2357;&#2366;&#2311;&#2348;</title>
     <desc lang="hi-IN">A compilation of some of the most popular journey and road trip songs sung by popular recording artists and musicians are played consecutively.</desc>
@@ -47189,6 +47192,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p15891844_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S11 E12</episode-num>
   </programme>
+  
 <programme channel="sony.bbc.earth.hd.in" start="20260429005200 +0530" stop="20260429013700 +0530">
     <title lang="en">Ben Fogle: Return To The Wild</title>
     <desc lang="en">Ben ventures deep into the freezing tundra of Outer Mongolia on the longest journey he has experienced. Additionally, he stays with Micky and his family, who have left behind the comforts of America.</desc>
@@ -51318,6 +51322,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p26316173_b_h9_ae.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E34</episode-num>
   </programme>
+  
 <programme channel="sony.yay.in" start="20260429063600 +0530" stop="20260429064200 +0530">
     <title lang="en">Shin Chan</title>
     <desc lang="en">Misae has ordered a pizza but Shin-chan drops it and refrains from telling her. However, later when Misae eats it, she realises what happened.</desc>
@@ -51587,6 +51592,7 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p247116_b_h9_ai.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="star.sports.khel.in" start="20260429073000 +0530" stop="20260429080000 +0530">
     <title lang="en">2026: Punjab Kings vs. Rajasthan Royals 40th Match; TATA IPL Highlights</title>
     <desc lang="en">A detailed revisit of match highlights, teams, fixtures and exciting behind-the-scene action around the Indian Premier League cricket tournament.</desc>
@@ -51966,6 +51972,7 @@
     <category lang="en">News Bulletin</category>
     <icon src="https://dtil.tmsimg.com/assets/p29031066_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="tv9.marathi.in" start="20260429000000 +0530" stop="20260429003000 +0530">
     <title lang="en">Gurrukilli Yashachi</title>
     <desc lang="en">The host invites career experts and engages in a conversation with them on business-related topics as well as the key to success.</desc>
@@ -52522,7 +52529,6 @@
     <category lang="en">Thriller</category>
     <icon src="https://dtil.tmsimg.com/assets/p86592_v_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="zee.bollywood.in" start="20260429083400 +0530" stop="20260429111100 +0530">
     <title lang="en">Main Tera Dushman</title>
     <desc lang="en">When a Forest Officer, Kishan Srivastav, hinders the criminal activities of Thakur Dayalu, he is framed for murder and sent to jail. Later, Kishan escapes prison and tries to clear his name.</desc>
@@ -53859,6 +53865,7 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p29741356_b_h9_ab.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="9x.jhakaas.in" start="20260429080000 +0530" stop="20260429083000 +0530">
     <title lang="en">Breakless Breakfast</title>
     <desc lang="en">A compilation of the greatest foot-tapping hits from the music industry played back to back in order to entertain the audience.</desc>
@@ -54117,6 +54124,7 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p29972579_b_h9_ab.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="9x.tashan.in" start="20260429050000 +0530" stop="20260429053000 +0530">
     <title lang="en">9x Tashan Shukrana</title>
     <desc lang="en">A compilation of some of the most popular soundtracks featuring renowned artists and bands is played back to back to entertain the viewers.</desc>
@@ -54375,6 +54383,7 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p29726511_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="9xm.in" start="20260429020000 +0530" stop="20260429023000 +0530">
     <title lang="en">9xm Raat Bhar</title>
     <desc lang="en">A compilation of some of the most popular Hindi songs by famous recording artists, played in succession for everyone to enjoy.</desc>
@@ -54633,6 +54642,7 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p30510330_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="9xm.in" start="20260429203000 +0530" stop="20260429210000 +0530">
     <title lang="en">9xm Shayarism</title>
     <desc lang="en">A comprehensive compilation of soothing and melodious songs performed by popular artists and musicians is played back-to-back.</desc>
@@ -54790,6 +54800,7 @@
     <category lang="en">Astrology</category>
     <icon src="https://dtil.tmsimg.com/assets/p28418560_b_h9_ac.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="aaj.tak.in" start="20260429073000 +0530" stop="20260429080000 +0530">
     <title lang="en">100 Shahar 100 Khabar</title>
     <desc lang="en">The host presents the latest political, social, economic and sports news updates and speaks about the recent developments in the country.</desc>
@@ -57120,7 +57131,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p24723429_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  
 <programme channel="colors.rishtey.in" start="20260429001300 +0530" stop="20260429023500 +0530">
     <title lang="en">Parineetii</title>
     <desc lang="en">Rajeev is left shocked when he sees Parineet at Neeti's house. Will Parineet spot Rajeev at Neeti's house, or will he manage to escape without being seen by her?</desc>
@@ -59046,6 +59056,7 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p28409654_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="dhoom.music.in" start="20260429163000 +0530" stop="20260429170000 +0530">
     <title lang="en">JukeBOX</title>
     <desc lang="en">Bringing the best in television.</desc>
@@ -62256,7 +62267,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p29736958_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  
 <programme channel="discovery.science.in" start="20260429135800 +0530" stop="20260429155800 +0530">
     <title lang="en">My 600-Lb. Life</title>
     <desc lang="en">When the cravings continue after surgery, Dr. Now sends Wess to therapy to confront his demons.</desc>
@@ -63894,7 +63904,6 @@
     <category lang="en">News Bulletin</category>
     <icon src="https://dtil.tmsimg.com/assets/p28669819_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="india.tv.in" start="20260429182800 +0530" stop="20260429185800 +0530">
     <title lang="en">Coffee Par Kurukshetra</title>
     <desc lang="en">The host provides insightful discussions on current affairs, centered around critical national and global issues, exploring key developments shaping India today.</desc>
@@ -64104,7 +64113,6 @@
     <category lang="en">Romance</category>
     <icon src="https://dtil.tmsimg.com/assets/p24917_v_h9_ae.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="mn+.hd.in" start="20260429102100 +0530" stop="20260429121200 +0530">
     <title lang="en">Revolutionary Road</title>
     <desc lang="en">A near-perfect couple decides to transfer to Paris in order to escape their satiated lives. But their relationship starts to strain when the woman's pregnancy forces them to change their plan.</desc>
@@ -65243,7 +65251,6 @@
     <category lang="en">Factual Entertainment</category>
     <icon src="https://dtil.tmsimg.com/assets/p25314008_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="national.geographic.hd.in" start="20260429120000 +0530" stop="20260429130000 +0530">
     <title lang="en">Primal Survivor: Over the Andes</title>
     <desc lang="en">Primal Survivalist Hazel Audel embarks on one of humanity's most rigorous journeys through the heart of the Andes, learning survival techniques from locals to overcome the extreme conditions.</desc>
@@ -66292,6 +66299,7 @@
     <category lang="pl">magazyn poradnikowy</category>
     <episode-num system="onscreen">E28</episode-num>
   </programme>
+  
 <programme channel="travelxp.hd.in" start="20260505071500 -0500" stop="20260505073000 -0500">
     <title lang="pl">Landmarks</title>
     <sub-title lang="pl">St. Alexander Nevsky Cathedral</sub-title>
@@ -67142,6 +67150,7 @@
     <category lang="pl">magazyn turystyczny</category>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
+  
 <programme channel="travelxp.hd.in" start="20260507110000 -0500" stop="20260507113000 -0500">
     <title lang="pl">Xplore Sri Lanka</title>
     <sub-title lang="pl">Colombo</sub-title>
@@ -68484,6 +68493,7 @@
     <category lang="pl">Zeichentrickserie</category>
     <episode-num system="onscreen">E12</episode-num>
   </programme>
+  
 <programme channel="nick.in" start="20260505030000 -0500" stop="20260505032500 -0500">
     <title lang="pl">Willkommen bei den Louds 6</title>
     <sub-title lang="pl">Zehn kleine Helferlein / Luans neuer Job</sub-title>
@@ -69485,7 +69495,6 @@
     <category lang="pl">Zeichentrickserie</category>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
-  
 <programme channel="nick.in" start="20260507020000 -0500" stop="20260507021500 -0500">
     <title lang="pl">Willkommen bei den Louds 2</title>
     <sub-title lang="pl">Die Bluebell-Schwestern</sub-title>
@@ -70255,7 +70264,6 @@ Jamie Theakston szuka informacji na temat wyroczni greckich, zw&#322;aszcza najs
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S3E2</episode-num>
   </programme>
-  
 <programme channel="national.geographic.hd.in" start="20260504051500 -0500" stop="20260504061000 -0500">
     <title lang="pl">NASA: Kosmiczne innowacje</title>
     <title lang="xx">Inside NASA's Innovations</title>
@@ -70929,7 +70937,6 @@ Jamie Theakston analizuje wszystko, co wiadomo o zagini&#281;ciu starotestamento
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S26E6</episode-num>
   </programme>
-  
 <programme channel="national.geographic.hd.in" start="20260507000000 -0500" stop="20260507010000 -0500">
     <title lang="pl">Wyprawa na dno</title>
     <title lang="xx">Drain the Oceans 2</title>
@@ -73718,7 +73725,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S4E24</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20260503064500 -0500" stop="20260503065500 -0500">
     <title lang="pl">Craig znad Potoku 4</title>
     <title lang="xx">Craig of the Creek</title>
@@ -74756,7 +74762,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E12</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20260504040000 -0500" stop="20260504042000 -0500">
     <title lang="pl">Niesamowity &#347;wiat Gumballa 3</title>
     <title lang="xx">The Amazing World of Gumball 3</title>
@@ -75302,6 +75307,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S5E13</episode-num>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20260504145500 -0500" stop="20260504150500 -0500">
     <title lang="pl">Zwyczajny serial 7</title>
     <sub-title lang="pl">Powr&#243;t Impra-konia</sub-title>
@@ -76097,7 +76103,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S4E33</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20260505071500 -0500" stop="20260505074000 -0500">
     <title lang="pl">M&#322;odzi Tytani: Akcja! 6</title>
     <title lang="xx">Teen Titans Go!</title>
@@ -76396,7 +76401,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S4E19</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20260505131000 -0500" stop="20260505132500 -0500">
     <title lang="pl">Niesamowity &#347;wiat Gumballa 4</title>
     <title lang="xx">The Amazing World of Gumball 4</title>
@@ -76682,7 +76686,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E4</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20260505190000 -0500" stop="20260505191000 -0500">
     <title lang="pl">Niesamowity &#347;wiat Gumballa 3</title>
     <title lang="xx">The Amazing World of Gumball 3</title>
@@ -79177,6 +79180,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E13</episode-num>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20260507210000 -0500" stop="20260507211000 -0500">
     <title lang="pl">Niesamowity &#347;wiat Gumballa 3</title>
     <title lang="xx">The Amazing World of Gumball 3</title>
@@ -80128,6 +80132,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
+  
 <programme channel="discovery.science.in" start="20260505160000 -0500" stop="20260505170000 -0500">
     <title lang="pl">W sieci eksperyment&#243;w</title>
     <title lang="xx">You Have Been Warned</title>
@@ -80157,7 +80162,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S5</episode-num>
   </programme>
-  
 <programme channel="discovery.science.in" start="20260505190000 -0500" stop="20260505200000 -0500">
     <title lang="pl">Jak dzia&#322;a wszech&#347;wiat</title>
     <title lang="xx">How the Universe Works 5</title>
@@ -80585,6 +80589,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <date>2019</date>
     <category lang="pl">serial dokumentalny</category>
   </programme>
+  
 <programme channel="discovery.science.in" start="20260507090000 -0500" stop="20260507100000 -0500">
     <title lang="pl">Autostrada spotka&#324; z UFO</title>
     <title lang="xx">Alien Highway</title>
@@ -82145,7 +82150,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E16</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20260504200500 -0500" stop="20260504203000 -0500">
     <title lang="pl">RoboGobo</title>
     <sub-title lang="pl">W kleszczach kraba / Booster i pszczo&#322;y</sub-title>
@@ -82411,7 +82415,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E36</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20260505033000 -0500" stop="20260505034000 -0500">
     <title lang="pl">Blue</title>
     <title lang="xx">Bluey</title>
@@ -82638,6 +82641,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E21</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20260505100000 -0500" stop="20260505103000 -0500">
     <title lang="pl">Klub Myszki Miki Plus</title>
     <title lang="xx">Mickey Mouse Clubhouse+</title>
@@ -84492,6 +84496,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S2E96</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20260507212000 -0500" stop="20260507213000 -0500">
     <title lang="pl">Blue 2</title>
     <sub-title lang="pl">St&#243;jka</sub-title>
@@ -84536,7 +84541,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S2E91</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20260507220500 -0500" stop="20260507221000 -0500">
     <title lang="pl">Blue 2</title>
     <sub-title lang="pl">Ko&#322;nierz Muffinki</sub-title>
@@ -85306,7 +85310,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S5E152</episode-num>
   </programme>
-  
 <programme channel="disney.channel.in" start="20260504072000 -0500" stop="20260504075000 -0500">
     <title lang="pl">Kiff 2</title>
     <sub-title lang="pl">Straszliwy sklep ze s&#322;odyczami I / Straszliwy sklep ze s&#322;odyczami II</sub-title>
@@ -85782,6 +85785,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E20</episode-num>
   </programme>
+  
 <programme channel="disney.channel.in" start="20260504230000 -0500" stop="20260504233000 -0500">
     <title lang="pl">Miraculous: Biedronka i Czarny Kot 4</title>
     <title lang="xx">Miraculous, les aventures de Ladybug et Chat Noir 4</title>
@@ -86078,7 +86082,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S6E146</episode-num>
   </programme>
-  
 <programme channel="disney.channel.in" start="20260505135000 -0500" stop="20260505142000 -0500">
     <title lang="pl">Fineasz i Ferb 5</title>
     <title lang="xx">Phineas and Ferb 5</title>
@@ -86357,7 +86360,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="pl">serial komediowy</category>
     <episode-num system="onscreen">S7E161</episode-num>
   </programme>
-  
 <programme channel="disney.channel.in" start="20260505205500 -0500" stop="20260505211500 -0500">
     <title lang="pl">Greenowie w wielkim mie&#347;cie 3</title>
     <title lang="xx">Big City Greens 3</title>
@@ -90047,6 +90049,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
       <value>PG</value>
     </rating>
   </programme>
+  
 <programme channel="sony.sab.in" start="20260505145800 +0000" stop="20260505153000 +0000">
     <title lang="en">Veer Hanuman - Bolo Bajrang Bali Ki Jai</title>
     <desc lang="en">The journey of young Hanuman as he discovers his divine powers and transforms into a legendary hero, becoming the eternal guardian of righteousness.</desc>
@@ -90337,6 +90340,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
       <value>PG</value>
     </rating>
   </programme>
+  
 <programme channel="sony.sab.in" start="20260506043600 +0000" stop="20260506050000 +0000">
     <title lang="en">Raisinghani Vs Raisinghani</title>
     <desc lang="en">A sharp witted young attorney investigates the ethical conundrums of choosing the right over the easy while trying to make a name for herself in her father's legal firm.</desc>
@@ -92638,7 +92642,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <icon src="https://images.metadata.sky.com/pd-image/6ecfb607-e7f9-48a8-9614-35d92da28c89/16-9" />
     <episode-num system="onscreen">04</episode-num>
   </programme>
-  
 <programme channel="skysp.cricket.in" start="20260505230000 +0000" stop="20260505231500 +0000">
     <title lang="en">ICC Men's T20 WC: ENG v AUS 2010</title>
     <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's victorious 2010 final against old rivals Australia.</desc>
@@ -93947,7 +93950,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <icon src="https://images.metadata.sky.com/pd-image/a7bc8068-b92d-4bbb-be6b-e371e6e5638a/16-9" />
     <episode-num system="xmltv_ns">1.12.</episode-num>
   </programme>
-  
 <programme channel="tlc.hd.in" start="20260505160000 +0000" stop="20260505163000 +0000">
     <title lang="en">The Big Bang Theory</title>
     <sub-title lang="en">The Weekend Vortex</sub-title>
@@ -94140,6 +94142,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="en">Specialist</category>
     <category lang="en">Shopping</category>
   </programme>
+  
 <programme channel="tlc.hd.in" start="20260506060000 +0000" stop="20260506063000 +0000">
     <title lang="en">Mike &amp; Molly</title>
     <sub-title lang="en">The Adoption Option</sub-title>
@@ -95129,6 +95132,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="en">World Affairs</category>
     <icon src="https://images.metadata.sky.com/pd-image/4cdd6cea-1e38-440c-974d-7fc6e376059f/16-9" />
   </programme>
+  
 <programme channel="aaj.tak.in" start="20260504183000 +0000" stop="20260504190000 +0000">
     <title lang="en">Subh Samchar</title>
     <desc lang="en">A Good News show focused on positive and uplifting stories.</desc>
@@ -95696,6 +95700,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="en">World Affairs</category>
     <icon src="https://images.metadata.sky.com/pd-image/df05af68-3bfd-4360-9e11-68d963e8f605/16-9" />
   </programme>
+  
 <programme channel="aaj.tak.in" start="20260506060000 +0000" stop="20260506063000 +0000">
     <title lang="en">Aajtak News</title>
     <desc lang="en">Aaj Tak News program on current developments across the world.</desc>
@@ -95775,7 +95780,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="en">World Affairs</category>
     <icon src="https://images.metadata.sky.com/pd-image/6a5b2688-a053-4354-b965-df9843d4ae84/16-9" />
   </programme>
-  
 <programme channel="aaj.tak.in" start="20260506110000 +0000" stop="20260506113000 +0000">
     <title lang="en">Mera Gaon Mera Desh</title>
     <desc lang="en">Fast News program on current developments across the india.</desc>
@@ -96165,7 +96169,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
       <value>U</value>
     </rating>
   </programme>
-  
 <programme channel="b4u.movies.in" start="20260505071400 +0000" stop="20260505101200 +0000">
     <title lang="en">Kaun Kare Kurbanie</title>
     <desc lang="en">Honest and upright, Inspector Arjun is very different from his happy-go-lucky younger brother Ajit. Their relationship hits rocky ground after Ajit is accused of murder.</desc>
@@ -96455,7 +96458,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <category lang="en">Entertainment</category>
     <icon src="https://images.metadata.sky.com/pd-image/29129dd5-1696-4a8e-89bb-caf35e009cb1/16-9" />
   </programme>
-  
 <programme channel="b4u.music.in" start="20260503143000 +0000" stop="20260503150000 +0000">
     <title lang="en">Pinkvilla</title>
     <desc lang="en">Bollywood and TV stars lifestyle, gossip and fashion.</desc>
@@ -99149,7 +99151,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <icon src="https://images.metadata.sky.com/pd-image/77a7ad86-674a-4d03-b533-f530f642a1d1/16-9" />
     <episode-num system="xmltv_ns">1.4.</episode-num>
   </programme>
-  
 <programme channel="mtv.hd.in" start="20260503030000 +0000" stop="20260503050000 +0000">
     <title lang="en">Teleshopping</title>
     <desc lang="en">Teleshopping.</desc>
@@ -99579,6 +99580,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <icon src="https://images.metadata.sky.com/pd-image/3fb834b7-922a-41e5-a33a-4bf4f0051430/16-9" />
     <episode-num system="xmltv_ns">43.7.</episode-num>
   </programme>
+  
 <programme channel="mtv.hd.in" start="20260505000000 +0000" stop="20260505010000 +0000">
     <title lang="en">Bar Rescue</title>
     <desc lang="en">In Tucson, Arizona, a struggling bar owner faces closure after five years. Jon Taffer tackles roaches, broken equipment and fading passion to save the business.</desc>
@@ -99648,7 +99650,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <icon src="https://images.metadata.sky.com/pd-image/a58999ae-21f5-4774-9ae9-dfb8ee3d3c85/16-9" />
     <episode-num system="xmltv_ns">4.5.</episode-num>
   </programme>
-  
 <programme channel="mtv.hd.in" start="20260505070000 +0000" stop="20260505073000 +0000">
     <title lang="en">Friendzone</title>
     <desc lang="en">Fitz and Michelle are best friends of five years, and he's sick of seeing her date the wrong guys. Shelly is a clown but her love for friend Anthony is no laughing matter.</desc>
@@ -99830,6 +99831,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
     <icon src="https://images.metadata.sky.com/pd-image/54b499f9-90c1-433f-8365-3295336eeef7/16-9" />
     <episode-num system="xmltv_ns">8.5.</episode-num>
   </programme>
+  
 <programme channel="mtv.hd.in" start="20260506005500 +0000" stop="20260506014500 +0000">
     <title lang="en">Help I Sexted My Boss</title>
     <desc lang="en">William Hanson and Jordan North help you navigate the challenges of modern life, answering your 21st century questions and finding solutions to everyday dilemmas.</desc>
@@ -100769,7 +100771,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
       <value>TVG</value>
     </rating>
   </programme>
-  
 <programme channel="willow.cricket.hd.in" start="20260505130000 +0000" stop="20260505140000 +0000">
     <title lang="en">Live: Cricket Preview</title>
     <sub-title lang="en">Tata Ipl 2026: DC vs CSK - 48th Match</sub-title>
@@ -102072,7 +102073,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
       <value>A12</value>
     </rating>
   </programme>
-  
 <programme channel="national.geographic.hd.in" start="20260504130700 +0000" stop="20260504141000 +0000">
     <title lang="en">Hostile Planet</title>
     <sub-title lang="en">Polar</sub-title>
@@ -107191,6 +107191,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
       <value>12</value>
     </rating>
   </programme>
+  
 <programme channel="vh1.hd.in" start="20260505103000 +0000" stop="20260505110000 +0000">
     <title lang="en">Nick Cannon Presents: Wild 'n Out</title>
     <sub-title lang="en">Vinny Guadagnino; Ronnie Ortiz-Magro; Karol G</sub-title>
@@ -109742,7 +109743,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
 <programme start="20260504083500 +0700" stop="20260504092000 +0700" channel="mtv.in">
     <title lang="en">Jersey Shore: Family Vacation</title>
   </programme>
-  
 <programme start="20260504092000 +0700" stop="20260504101000 +0700" channel="mtv.in">
     <title lang="en">Ex On The Beach (UK)</title>
   </programme>
@@ -110058,6 +110058,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
 <programme start="20260506110000 +0700" stop="20260506112000 +0700" channel="mtv.in">
     <title lang="en">Ridiculousness</title>
   </programme>
+  
 <programme start="20260506112000 +0700" stop="20260506114500 +0700" channel="mtv.in">
     <title lang="en">Ridiculousness</title>
   </programme>
@@ -110173,7 +110174,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
 <programme start="20260507034500 +0700" stop="20260507040500 +0700" channel="mtv.in">
     <title lang="en">Ridiculousness</title>
   </programme>
-  
 <programme start="20260507040500 +0700" stop="20260507043000 +0700" channel="mtv.in">
     <title lang="en">Ridiculousness</title>
   </programme>
@@ -110485,6 +110485,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
 <programme start="20260505115000 +0700" stop="20260505121500 +0700" channel="tlc.hd.in">
     <title lang="en">Cake Boss</title>
   </programme>
+  
 <programme start="20260505121500 +0700" stop="20260505124000 +0700" channel="tlc.hd.in">
     <title lang="en">Kitchen Boss</title>
   </programme>
@@ -110908,6 +110909,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
 <programme start="20260506140000 +0700" stop="20260506150000 +0700" channel="supersport.school.hd.in">
     <title lang="en">Girls Hockey Challenge '26 SCS v HSG</title>
   </programme>
+  
 <programme start="20260506150000 +0700" stop="20260506160000 +0700" channel="supersport.school.hd.in">
     <title lang="en">Girls Hockey Challenge DFA v Klofies</title>
   </programme>
@@ -111167,7 +111169,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
 <programme start="20260504133000 +0700" stop="20260504135500 +0700" channel="disney.channel.in">
     <title lang="en">Big City Greens</title>
   </programme>
-  
 <programme start="20260504135500 +0700" stop="20260504142000 +0700" channel="disney.channel.in">
     <title lang="en">Miraculous: Tales Of Ladybug And...</title>
   </programme>
@@ -111459,6 +111460,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
 <programme start="20260505152000 +0700" stop="20260505154500 +0700" channel="disney.channel.in">
     <title lang="en">Kiff</title>
   </programme>
+  
 <programme start="20260505154500 +0700" stop="20260505160500 +0700" channel="disney.channel.in">
     <title lang="en">Kiff</title>
   </programme>
@@ -112310,6 +112312,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
 <programme start="20260504150000 +0700" stop="20260504150500 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
+  
 <programme start="20260504150500 +0700" stop="20260504151500 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
@@ -112425,7 +112428,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
 <programme start="20260504212000 +0700" stop="20260504213000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
-  
 <programme start="20260504213000 +0700" stop="20260504214000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
@@ -112733,6 +112735,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
 <programme start="20260505163500 +0700" stop="20260505170000 +0700" channel="disney.junior.in">
     <title lang="en">Pupstruction</title>
   </programme>
+  
 <programme start="20260505170000 +0700" stop="20260505172500 +0700" channel="disney.junior.in">
     <title lang="en">Sofia The First</title>
   </programme>
@@ -112848,7 +112851,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
 <programme start="20260506000000 +0700" stop="20260506002500 +0700" channel="disney.junior.in">
     <title lang="en">Mickey Mouse Clubhouse</title>
   </programme>
-  
 <programme start="20260506002500 +0700" stop="20260506003500 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
@@ -113160,6 +113162,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
 <programme start="20260506181500 +0700" stop="20260506182500 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
+  
 <programme start="20260506182500 +0700" stop="20260506185000 +0700" channel="disney.junior.in">
     <title lang="en">Mickey Mouse Clubhouse</title>
   </programme>
@@ -113583,6 +113586,7 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
 <programme start="20260507205500 +0700" stop="20260507210000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
+  
 <programme start="20260507210000 +0700" stop="20260507210500 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
@@ -113698,7 +113702,6 @@ Oto historia jednej z najbardziej dalekosi&#281;&#380;nych operacji drugiej wojn
 <programme start="20260508035000 +0700" stop="20260508035500 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
-  
 <programme start="20260508035500 +0700" stop="20260508040500 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
