@@ -19,7 +19,7 @@ CHANNELS_TEXT = """
 aaj.tak.in http://b1gchlogos.xyz/wp-content/uploads/2023/08/Aaj-Tak-HD.png
 and.flix.hd.in http://94.156.33.106/logos2/&flixhd.jpg
 and.pictures.hd.in http://94.156.33.106/logos2/&pictureshd.jpg
-and.prive.hd.in 
+And.Prive.HD.in  
 and.tv.hd.in http://94.156.33.106/logos2/&tvhd.jpg
 and.xplorhd.in https://go4.pw/India/&explorer.png
 animal.planet.hd.world.in http://94.156.33.106/logos2/animal_planethd.jpg
@@ -29,7 +29,7 @@ b4u.music.in http://94.156.33.106/logos2/b4u_music.jpg
 big.magic.in http://94.156.33.106/logos2/zee_bigmagic.jpg
 cartoon.network.in http://94.156.33.106/logos2/catoon_network_hd+.jpg
 cn.hd+.english.in http://94.156.33.106/logos2/catoon_network_hd+.jpg
-colors.cineplex.hd.in http://94.156.33.106/logos2/colors_cineplexhd.jpg
+Colors.Cineplex.HD.in http://94.156.33.106/logos2/colors_cineplexhd.jpg
 colors.cineplex.superhits.in http://94.156.33.106/logos2/colors_cineplex.jpg
 colors.hd.in http://94.156.33.106/logos2/colorshd.jpg
 colors.infinity.hd.in http://94.156.33.106/logos2/colors_infinityhd.jpg
@@ -46,6 +46,7 @@ discovery.turbo.in
 disney.channel.in http://b1gchlogos.xyz/wp-content/uploads/2023/08/Disney.png
 disney.junior.in 
 eurosports.hd.in
+Food.Food.in
 history.tv18.hd.in http://94.156.33.106/logos2/history_tv18.jpg
 hungama.in
 india.tv.in http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-TV.png
@@ -53,7 +54,7 @@ Sony.Max.HD.in http://94.156.33.106/logos2/sony_maxhd.jpg
 mn+.hd.in http://94.156.33.106/logos2/mn+moviedhd.jpg
 mnx.hd.in http://94.156.33.106/logos2/mnx_hd.jpg
 movies.now.in
-movies.now.hd.in http://94.156.33.106/logos2/movies_nowhd.jpg
+Movies.Now.HD.in http://94.156.33.106/logos2/movies_nowhd.jpg
 mtv.hd.in http://94.156.33.106/logos2/mtv+hd.jpg
 mtv.in
 nat.geo.wild.hd.in http://94.156.33.106/logos2/nat_geo_wildhd.jpg
@@ -80,7 +81,7 @@ sony.sports.ten.5.hd.in http://94.156.33.106/logos2/sony_ten5.jpg
 sony.wah.in http://94.156.33.106/logos2/sony_wah.jpg
 sony.yay.in http://94.156.33.106/logos2/sony_yay.jpg
 star.bharat.hd.in http://94.156.33.106/logos2/star_bharathd.jpg
-star.gold.2.hd.in http://94.156.33.106/logos2/star_gold2.jpg
+Star.Gold.2.HD.in http://94.156.33.106/logos2/star_gold2.jpg
 star.gold.in http://94.156.33.106/logos2/star_gold2.jpg
 star.gold.hd.in http://94.156.33.106/logos2/star_goldhd.jpg
 star.gold.romance.in
@@ -94,6 +95,7 @@ star.sports.1.hd.in http://94.156.33.106/logos2/star_sports1hd.jpg
 star.sports.2.hd.in http://94.156.33.106/logos2/star_sports2.jpg
 star.sports.2.hindi.hd.in http://94.156.33.106/logos2/star_sports2.jpg
 star.sports.3.in http://94.156.33.106/logos2/star_sports_3.jpg
+Star.Sports.First.in
 star.sports.khel.in http://94.156.33.106/logos2/sports18_khel.jpg
 star.sports.select.1.hd.in http://94.156.33.106/logos2/star_sports_select_1hd.jpg
 star.sports.select.2.hd.in http://94.156.33.106/logos2/star_sports_select2.jpg
@@ -115,6 +117,7 @@ zing.in http://94.156.33.106/logos2/zing.jpg
 zoom.in http://94.156.33.106/logos2/zoom.jpg
 skysp.cricket.in
 astro.cricket.in http://94.156.33.106/logos2/astro_cricket.jpg
+Astro.Cricket.my
 foxcricket.in
 willow.cricket.hd.in http://94.156.33.106/logos2/willowhd.jpg
 willow.xtra.in http://94.156.33.106/logos2/willowxtra.jpg
