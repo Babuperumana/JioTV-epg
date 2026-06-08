@@ -19,7 +19,7 @@ CHANNELS_TEXT = """
 aaj.tak.in http://b1gchlogos.xyz/wp-content/uploads/2023/08/Aaj-Tak-HD.png
 and.flix.hd.in http://94.156.33.106/logos2/&flixhd.jpg
 and.pictures.hd.in http://94.156.33.106/logos2/&pictureshd.jpg
-And.Prive.HD.in  https://share.google/g0rtQIoCh4k9XBHnR
+And.Prive.HD.in  https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png
 and.tv.hd.in http://94.156.33.106/logos2/&tvhd.jpg
 and.xplorhd.in https://go4.pw/India/&explorer.png
 animal.planet.hd.world.in http://94.156.33.106/logos2/animal_planethd.jpg
