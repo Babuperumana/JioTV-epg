@@ -1,6 +1,7 @@
 import gzip
 import xml.etree.ElementTree as ET
 from datetime import datetime
+from deep_translator import GoogleTranslator  # Run command: pip install deep-translator
 
 SOURCE_GZ = "epg_ripper_ALL_SOURCES1.gz"
 OUTPUT_XML = "filtered_epg.xml"
@@ -8,9 +9,7 @@ OUTPUT_GZ = "filtered_epg.xml.gz"
 
 # ==============================
 # ✅ CHANNEL LIST (PLAIN FORMAT)
-# channel [space] logo_url(optional)
 # ==============================
-
 CHANNELS_TEXT = """
 9x.jalwa.in http://94.156.33.106/logos2/9x_jalwa.jpg
 9x.jhakaas.in http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Bihar-Jharkhand.png
@@ -137,10 +136,6 @@ sports.18.2.in http://94.156.33.106/logos2/sports18_khel.jpg
 Sky.Sports.Cricket.HD.ie
 """
 
-# ==============================
-# ✅ CLEAN ID (ONLY FOR MATCHING)
-# ==============================
-
 SUFFIXES = [".in", ".uk", ".hk", ".us", ".us2", ".au", ".za", ".al", ".pl", ".no"]
 
 def clean_id(cid):
@@ -151,38 +146,46 @@ def clean_id(cid):
             break
     return cid + ".in"
 
-# ==============================
-# ✅ PARSE CHANNELS (KEEP ORIGINAL)
-# ==============================
-
 CHANNELS = {}
 for line in CHANNELS_TEXT.splitlines():
     if not line.strip():
         continue
-
     parts = line.split(maxsplit=1)
     original_id = parts[0].strip().lower()
     logo = parts[1].strip() if len(parts) == 2 else None
-
     cleaned = clean_id(original_id)
-
     CHANNELS[cleaned] = {
         "original": original_id,
         "logo": logo
     }
 
 # ==============================
-# ✅ MAIN LOGIC
+# 🤖 SIMPLE GOOGLE TRANSLATOR
 # ==============================
+translator = GoogleTranslator(source='en', target='hi')
+
+def translate_programme(programme_elem):
+    # Sirf title aur desc ko target karenge translation ke liye
+    for tag_name in ["title", "desc"]:
+        for tag in programme_elem.findall(tag_name):
+            if tag.text and not tag.text.strip().isdigit():
+                try:
+                    # Direct live translation bina kisi cache ke
+                    tag.text = translator.translate(tag.text.strip())
+                except Exception:
+                    pass  # Internet/API issue hone par original text chhod dega
+            tag.set("lang", "hi")  # IPTV Player ko batane ke liye ki yeh Hindi hai
 
 def main():
     kept = set()
     programmes = 0
 
+    print("⏳ Translating EPG directly to Hindi... Please wait...")
+
     with open(OUTPUT_XML, "wb") as out:
         out.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
         out.write(
-            f'<tv generator-info-name="filtered_epg" '
+            f'<tv generator-info-name="filtered_epg_hindi" '
             f'date="{datetime.utcnow().strftime("%Y%m%d%H%M%S +0000")}">\n'
             .encode()
         )
@@ -218,24 +221,26 @@ def main():
 
                     if cid in kept:
                         elem.attrib["channel"] = CHANNELS[cid]["original"]
+                        
+                        # 🌟 Yahan direct channel text Hindi me translate ho raha hai
+                        translate_programme(elem)
+                        
                         out.write(ET.tostring(elem) + b"\n")
                         programmes += 1
+                        
+                        if programmes % 100 == 0:
+                            print(f"🔄 Translated {programmes} programmes...")
 
                     elem.clear()
 
         out.write(b"</tv>")
 
-    # ---------- COMPRESS ----------
     with open(OUTPUT_XML, "rb") as fi, gzip.open(OUTPUT_GZ, "wb") as fo:
         fo.writelines(fi)
 
     print("✅ DONE")
-    print("Channels :", len(kept))
-    print("Programmes :", programmes)
-
-# ==============================
-# ✅ RUN
-# ==============================
+    print("Channels saved :", len(kept))
+    print("Total Programmes Translated :", programmes)
 
 if __name__ == "__main__":
     main()
