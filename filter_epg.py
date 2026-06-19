@@ -1,7 +1,10 @@
 import gzip
 import xml.etree.ElementTree as ET
 from datetime import datetime
-from deep_translator import GoogleTranslator  # Run command: pip install deep-translator
+import urllib.request
+import urllib.parse
+import json
+import time
 
 SOURCE_GZ = "epg_ripper_ALL_SOURCES1.gz"
 OUTPUT_XML = "filtered_epg.xml"
@@ -160,27 +163,37 @@ for line in CHANNELS_TEXT.splitlines():
     }
 
 # ==============================
-# 🤖 SIMPLE GOOGLE TRANSLATOR
+# 🤖 BUILT-IN GOOGLE TRANSLATE (NO LIBRARIES)
 # ==============================
-translator = GoogleTranslator(source='en', target='hi')
+def google_translate_built_in(text, source_lang='en', target_lang='hi'):
+    """Bina kisi third-party library ke Google Translate use karne ka tarika"""
+    if not text or text.strip().isdigit():
+        return text
+        
+    try:
+        url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=" + source_lang + "&tl=" + target_lang + "&dt=t&q=" + urllib.parse.quote(text.strip())
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=5) as response:
+            data = json.loads(response.read().decode('utf-8'))
+            # Google Translate array me response deta hai, hum saare parts ko jodenge
+            translated_text = "".join([part[0] for part in data[0] if part[0]])
+            return translated_text
+    except Exception:
+        return text  # Agar internet ya limit issue ho toh original text hi chhod dega
 
 def translate_programme(programme_elem):
-    # Sirf title aur desc ko target karenge translation ke liye
+    # Title aur description dono ko translate karenge
     for tag_name in ["title", "desc"]:
         for tag in programme_elem.findall(tag_name):
-            if tag.text and not tag.text.strip().isdigit():
-                try:
-                    # Direct live translation bina kisi cache ke
-                    tag.text = translator.translate(tag.text.strip())
-                except Exception:
-                    pass  # Internet/API issue hone par original text chhod dega
-            tag.set("lang", "hi")  # IPTV Player ko batane ke liye ki yeh Hindi hai
+            if tag.text:
+                tag.text = google_translate_built_in(tag.text)
+            tag.set("lang", "hi")  # XML me batayenge ki ab yeh Hindi hai
 
 def main():
     kept = set()
     programmes = 0
 
-    print("⏳ Translating EPG directly to Hindi... Please wait...")
+    print("⏳ GitHub Runner: Translating EPG directly to Hindi...")
 
     with open(OUTPUT_XML, "wb") as out:
         out.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
@@ -222,14 +235,15 @@ def main():
                     if cid in kept:
                         elem.attrib["channel"] = CHANNELS[cid]["original"]
                         
-                        # 🌟 Yahan direct channel text Hindi me translate ho raha hai
+                        # Translate tags safely using standard libraries
                         translate_programme(elem)
                         
                         out.write(ET.tostring(elem) + b"\n")
                         programmes += 1
                         
                         if programmes % 100 == 0:
-                            print(f"🔄 Translated {programmes} programmes...")
+                            print(f"🔄 Processed {programmes} programmes...")
+                            time.sleep(0.1) # Google block na kare isliye thoda gap
 
                     elem.clear()
 
@@ -240,7 +254,7 @@ def main():
 
     print("✅ DONE")
     print("Channels saved :", len(kept))
-    print("Total Programmes Translated :", programmes)
+    print("Total Programmes Processed :", programmes)
 
 if __name__ == "__main__":
     main()
