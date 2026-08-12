@@ -1,7 +1,21 @@
+import sys
+import subprocess
+
+# ==============================
+# ✅ AUTO-INSTALL LIBRARY (JUGAAD)
+# ==============================
+# Agar deep_translator GitHub server par nahi hai, toh script khud usko install kar legi!
+try:
+    from deep_translator import GoogleTranslator
+except ImportError:
+    print("⚙️ 'deep_translator' install nahi hai. Auto-installing now...")
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "deep-translator"])
+    from deep_translator import GoogleTranslator
+
+# Ab baaki ke normal imports
 import gzip
 import xml.etree.ElementTree as ET
 from datetime import datetime
-from deep_translator import GoogleTranslator
 
 SOURCE_GZ = "epg_ripper_ALL_SOURCES1.gz"
 OUTPUT_XML = "filtered_epg.xml"
