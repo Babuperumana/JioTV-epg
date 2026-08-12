@@ -1,10 +1,38 @@
 import gzip
 import xml.etree.ElementTree as ET
 from datetime import datetime
+from deep_translator import GoogleTranslator
 
 SOURCE_GZ = "epg_ripper_ALL_SOURCES1.gz"
 OUTPUT_XML = "filtered_epg.xml"
 OUTPUT_GZ = "filtered_epg.xml.gz"
+
+# ==============================
+# ✅ TRANSLATOR SETUP & CACHE
+# ==============================
+translator = GoogleTranslator(source='en', target='hi')
+translation_cache = {}
+
+def get_hindi_translation(text):
+    """Translates text to Hindi and caches it to save time."""
+    if not text or not text.strip():
+        return text
+    
+    # Remove extra spaces
+    clean_text = text.strip()
+    
+    # Agar pehle se translate ho chuka hai, toh dobara API call mat karo (Time bachega)
+    if clean_text in translation_cache:
+        return translation_cache[clean_text]
+    
+    try:
+        translated = translator.translate(clean_text)
+        translation_cache[clean_text] = translated
+        return translated
+    except Exception as e:
+        # Agar error aaye ya internet issue ho, toh original English text hi return kar do
+        print(f"Translation Error for '{clean_text[:20]}...': {e}")
+        return text
 
 # ==============================
 # ✅ CHANNEL LIST (PLAIN FORMAT)
@@ -179,10 +207,12 @@ def main():
     kept = set()
     programmes = 0
 
+    print("🚀 Script Started. Pura EPG Hindi me translate ho raha hai, isme thoda time lag sakta hai...")
+
     with open(OUTPUT_XML, "wb") as out:
         out.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
         out.write(
-            f'<tv generator-info-name="filtered_epg" '
+            f'<tv generator-info-name="filtered_epg_hindi" '
             f'date="{datetime.utcnow().strftime("%Y%m%d%H%M%S +0000")}">\n'
             .encode()
         )
@@ -218,20 +248,32 @@ def main():
 
                     if cid in kept:
                         elem.attrib["channel"] = CHANNELS[cid]["original"]
+                        
+                        # Translate Title and Description tags to Hindi
+                        for child in elem:
+                            if child.tag in ['title', 'desc'] and child.text:
+                                child.text = get_hindi_translation(child.text)
+
                         out.write(ET.tostring(elem) + b"\n")
                         programmes += 1
+
+                        # Print progress so user doesn't think script is frozen
+                        if programmes % 500 == 0:
+                            print(f"⏳ Translated {programmes} programmes so far...")
 
                     elem.clear()
 
         out.write(b"</tv>")
 
     # ---------- COMPRESS ----------
+    print("📦 XML Save ho gaya, ab usko compress kar rahe hain...")
     with open(OUTPUT_XML, "rb") as fi, gzip.open(OUTPUT_GZ, "wb") as fo:
         fo.writelines(fi)
 
-    print("✅ DONE")
-    print("Channels :", len(kept))
-    print("Programmes :", programmes)
+    print("✅ DONE!")
+    print(f"Channels Filtered : {len(kept)}")
+    print(f"Programmes Translated : {programmes}")
+    print(f"Unique Translations Cached : {len(translation_cache)}")
 
 # ==============================
 # ✅ RUN
