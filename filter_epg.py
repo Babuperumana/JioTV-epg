@@ -1,6 +1,9 @@
 import gzip
 import xml.etree.ElementTree as ET
 from datetime import datetime
+import urllib.request
+import json
+import re
 
 SOURCE_GZ = "epg_ripper_ALL_SOURCES1.gz"
 OUTPUT_XML = "filtered_epg.xml"
@@ -156,6 +159,17 @@ def clean_id(cid):
 # ==============================
 
 CHANNELS = {}
+
+def add_channel(original_id, logo):
+    cleaned = clean_id(original_id)
+    # Prefer existing (manual) entries over dynamic ones
+    if cleaned not in CHANNELS or not CHANNELS[cleaned]["logo"]:
+        CHANNELS[cleaned] = {
+            "original": original_id,
+            "logo": logo
+        }
+
+# 1. Parse Hardcoded List (Overrides)
 for line in CHANNELS_TEXT.splitlines():
     if not line.strip():
         continue
@@ -163,13 +177,32 @@ for line in CHANNELS_TEXT.splitlines():
     parts = line.split(maxsplit=1)
     original_id = parts[0].strip().lower()
     logo = parts[1].strip() if len(parts) == 2 else None
+    add_channel(original_id, logo)
 
-    cleaned = clean_id(original_id)
-
-    CHANNELS[cleaned] = {
-        "original": original_id,
-        "logo": logo
-    }
+# 2. Dynamically Fetch All JioTV Channels from GitHub
+JIOTV_JSON_URL = "https://raw.githubusercontent.com/mitthu786/tvepg/main/jiotv/jiodata.json"
+try:
+    print(f"Fetching JioTV EPG list from {JIOTV_JSON_URL}...")
+    req = urllib.request.Request(JIOTV_JSON_URL, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req, timeout=10) as response:
+        data = json.loads(response.read().decode())
+        
+        for ch in data:
+            name = ch.get("channel_name", "")
+            if not name:
+                continue
+                
+            # Convert "Star Utsav Movies" to "star.utsav.movies.in"
+            clean_name = name.lower()
+            clean_name = re.sub(r'[^a-z0-9]+', '.', clean_name)
+            clean_name = clean_name.strip('.') + ".in"
+            
+            logo = ch.get("logoUrl")
+            add_channel(clean_name, logo)
+            
+    print(f"Successfully loaded dynamic JioTV list. Total channels to filter: {len(CHANNELS)}")
+except Exception as e:
+    print(f"Warning: Failed to fetch dynamic JioTV EPG list: {e}")
 
 # ==============================
 # ✅ MAIN LOGIC
