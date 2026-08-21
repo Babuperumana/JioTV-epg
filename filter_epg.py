@@ -155,31 +155,12 @@ def clean_id(cid):
     return cid + ".in"
 
 # ==============================
-# ✅ PARSE CHANNELS (KEEP ORIGINAL)
+# ✅ PARSE CHANNELS
 # ==============================
 
 CHANNELS = {}
 
-def add_channel(original_id, logo):
-    cleaned = clean_id(original_id)
-    # Prefer existing (manual) entries over dynamic ones
-    if cleaned not in CHANNELS or not CHANNELS[cleaned]["logo"]:
-        CHANNELS[cleaned] = {
-            "original": original_id,
-            "logo": logo
-        }
-
-# 1. Parse Hardcoded List (Overrides)
-for line in CHANNELS_TEXT.splitlines():
-    if not line.strip():
-        continue
-
-    parts = line.split(maxsplit=1)
-    original_id = parts[0].strip().lower()
-    logo = parts[1].strip() if len(parts) == 2 else None
-    add_channel(original_id, logo)
-
-# 2. Dynamically Fetch All JioTV Channels from GitHub
+# 1. Dynamically Fetch All JioTV Channels from GitHub
 JIOTV_JSON_URL = "https://raw.githubusercontent.com/mitthu786/tvepg/main/jiotv/jiodata.json"
 try:
     print(f"Fetching JioTV EPG list from {JIOTV_JSON_URL}...")
@@ -192,17 +173,43 @@ try:
             if not name:
                 continue
                 
-            # Convert "Star Utsav Movies" to "star.utsav.movies.in"
             clean_name = name.lower()
             clean_name = re.sub(r'[^a-z0-9]+', '.', clean_name)
             clean_name = clean_name.strip('.') + ".in"
             
+            numeric_id = str(ch.get("channel_id", ""))
             logo = ch.get("logoUrl")
-            add_channel(clean_name, logo)
             
-    print(f"Successfully loaded dynamic JioTV list. Total channels to filter: {len(CHANNELS)}")
+            CHANNELS[clean_name] = {
+                "original": numeric_id if numeric_id else clean_name,
+                "logo": logo
+            }
+            
+    print(f"Successfully loaded dynamic JioTV list. Total channels: {len(CHANNELS)}")
 except Exception as e:
     print(f"Warning: Failed to fetch dynamic JioTV EPG list: {e}")
+
+# 2. Parse Hardcoded List (Overrides logos or adds non-JioTV channels)
+for line in CHANNELS_TEXT.splitlines():
+    if not line.strip():
+        continue
+
+    parts = line.split(maxsplit=1)
+    original_id = parts[0].strip().lower()
+    logo = parts[1].strip() if len(parts) == 2 else None
+    
+    cleaned = clean_id(original_id)
+    
+    if cleaned in CHANNELS:
+        # Override logo if provided in hardcoded text
+        if logo:
+            CHANNELS[cleaned]["logo"] = logo
+    else:
+        # Add new non-JioTV channel
+        CHANNELS[cleaned] = {
+            "original": original_id,
+            "logo": logo
+        }
 
 # ==============================
 # ✅ MAIN LOGIC
