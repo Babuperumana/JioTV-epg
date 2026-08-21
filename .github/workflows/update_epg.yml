@@ -2,14 +2,9 @@ name: Update Filtered EPG Daily
 
 on:
   schedule:
-    # Morning – 10:00 AM IST (04:30 UTC)
-    - cron: "30 4 * * *"
-
-    # Evening – 6:00 PM IST (12:30 UTC)
-    - cron: "30 12 * * *"
-
-    # Evening – 9:00 PM IST (15:30 UTC)
-    - cron: "30 15 * * *"
+    # Runs every 8 hours (00:00, 08:00, 16:00 UTC)
+    # which is 5:30 AM, 1:30 PM, and 9:30 PM in Indian Standard Time (IST)
+    - cron: "0 */8 * * *"
 
   workflow_dispatch:
 
