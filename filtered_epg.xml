@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="filtered_epg" date="20261023194240 +0000">
+<tv generator-info-name="filtered_epg" date="20261024025157 +0000">
 <channel id="838">
     <display-name lang="sq">France 24</display-name>
     <url>http://www.ipko.com</url>
@@ -1303,6 +1303,11 @@
     <display-name lang="en">Vendhar TV</display-name>
     <url>http://www.jio.com</url>
   <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" /></channel>
+  
+<channel id="866">
+    <display-name lang="en">Jio Exclusive HD</display-name>
+    <url>http://www.jio.com</url>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" /></channel>
   
 <channel id="871">
     <display-name lang="en">Jio Events HD</display-name>
