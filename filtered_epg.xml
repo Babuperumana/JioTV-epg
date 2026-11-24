@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="filtered_epg" date="20261123194337 +0000">
+<tv generator-info-name="filtered_epg" date="20261124075524 +0000">
 <channel id="838">
     <display-name lang="sq">France 24</display-name>
     <url>http://www.ipko.com</url>
@@ -23,7 +23,7 @@
 <channel id="248">
     <display-name lang="en">MTV</display-name>
     <url>http://www.fetchtv.com.au</url>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV2.png" /></channel>
   
 <channel id="3392">
     <display-name lang="en">InTravel</display-name>
@@ -200,7 +200,7 @@
 <channel id="290">
     <display-name lang="en">sonic Tamil</display-name>
     <url>http://www.jio.com</url>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonicTamil2.png" /></channel>
   
 <channel id="291">
     <display-name lang="en">SET HD</display-name>
@@ -1205,7 +1205,7 @@
 <channel id="815">
     <display-name lang="en">Sonic Hindi</display-name>
     <url>http://www.jio.com</url>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonicHindi2.png" /></channel>
   
 <channel id="816">
     <display-name lang="en">Cartoon Network Hindi</display-name>
@@ -1714,12 +1714,12 @@
 <channel id="1242">
     <display-name lang="en">Sonic Telugu</display-name>
     <url>http://www.jio.com</url>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonicTelugu2.png" /></channel>
   
 <channel id="1243">
     <display-name lang="en">Sonic Kannada</display-name>
     <url>http://www.jio.com</url>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonicKannada2.png" /></channel>
   
 <channel id="1244">
     <display-name lang="en">Nick Kannada</display-name>
@@ -1824,12 +1824,12 @@
 <channel id="1324">
     <display-name lang="en">Colors Gujarati Cinema</display-name>
     <url>http://www.jio.com</url>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsGujaratiCinema2.png" /></channel>
   
 <channel id="1325">
     <display-name lang="en">Colors Infinity SD</display-name>
     <url>http://www.jio.com</url>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsInfinity2.png" /></channel>
   
 <channel id="1326">
     <display-name lang="en">Colors Marathi SD</display-name>
@@ -1864,17 +1864,17 @@
 <channel id="1344">
     <display-name lang="en">Sonic Malayalam</display-name>
     <url>http://www.jio.com</url>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonicMalayalam2.png" /></channel>
   
 <channel id="1345">
     <display-name lang="en">Sonic Bangla</display-name>
     <url>http://www.jio.com</url>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonicBangla2.png" /></channel>
   
 <channel id="1346">
     <display-name lang="en">Sonic Marathi</display-name>
     <url>http://www.jio.com</url>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Marathi.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonicMarathi2.png" /></channel>
   
 <channel id="1368">
     <display-name lang="en">Colors SD</display-name>
@@ -1884,12 +1884,12 @@
 <channel id="1369">
     <display-name lang="en">Colors Bangla SD</display-name>
     <url>http://www.jio.com</url>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsBangla1.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsBangla2.png" /></channel>
   
 <channel id="1370">
     <display-name lang="en">Colors Kannada SD</display-name>
     <url>http://www.jio.com</url>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsKannada2.png" /></channel>
   
 <channel id="1388">
     <display-name lang="en">Goodness</display-name>
@@ -2109,7 +2109,7 @@
 <channel id="1632">
     <display-name lang="en">Colors Kannada Cinema</display-name>
     <url>http://www.jio.com</url>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsKannadaCinema.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsKannadaCinema2.png" /></channel>
   
 <channel id="1633">
     <display-name lang="en">Public Movies</display-name>
@@ -2144,7 +2144,7 @@
 <channel id="1657">
     <display-name lang="en">Colors Bangla Cinema</display-name>
     <url>http://www.jio.com</url>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsBanglaCinema2.png" /></channel>
   
 <channel id="1667">
     <display-name lang="en">Rongeen TV</display-name>
@@ -3199,7 +3199,7 @@
 <channel id="248">
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">MTV</display-name>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV2.png" /></channel>
   
 <channel id="965">
     <url>http://www.mydishtv.in</url>
@@ -3429,7 +3429,7 @@
 <channel id="1657">
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">COLORS BANGLA CINEMA</display-name>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsBanglaCinema2.png" /></channel>
   
 <channel id="769">
     <url>http://www.mydishtv.in</url>
@@ -3499,7 +3499,7 @@
 <channel id="1324">
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">COLORS GUJARATI CINEMA</display-name>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsGujaratiCinema2.png" /></channel>
   
 <channel id="1359">
     <url>http://www.mydishtv.in</url>
@@ -3711,7 +3711,7 @@
 <channel id="196">
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">COLORS GUJARATI</display-name>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsGujarati.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsGujarati2.png" /></channel>
   
 <channel id="528">
     <url>http://www.mydishtv.in</url>
@@ -3770,7 +3770,7 @@
 <channel id="757">
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">COLORS KANNADA HD</display-name>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsKannadaHD2.png" /></channel>
   
 <channel id="1751">
     <url>http://www.mydishtv.in</url>
@@ -4241,7 +4241,7 @@
 <channel id="1374">
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">DISNEY JUNIOR</display-name>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/DisneyJunior2.png" /></channel>
   
 <channel id="3095">
     <url>http://www.mydishtv.in</url>
@@ -4321,7 +4321,7 @@
 <channel id="756">
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">COLORS BANGLA HD</display-name>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsBanglaHD1.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsBanglaHD2.png" /></channel>
   
 <channel id="1954">
     <url>http://www.mydishtv.in</url>
@@ -4786,7 +4786,7 @@
 <channel id="1374">
     <url>http://www.tv.wp.pl</url>
     <display-name lang="pl">Disney Junior</display-name>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/DisneyJunior2.png" /></channel>
   
 <channel id="tlc.hd.in">
     <url>http://www.tv.wp.pl</url>
@@ -4993,7 +4993,7 @@
 <channel id="248">
     <display-name lang="en">MTV</display-name>
     <url>http://www.dstv.com</url>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV2.png" /></channel>
   
 <channel id="tlc.hd.in">
     <display-name lang="en">TLC HD</display-name>
@@ -5013,7 +5013,7 @@
 <channel id="1374">
     <display-name lang="en">Disney Junior</display-name>
     <url>http://www.dstv.com</url>
-  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png" /></channel>
+  <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/DisneyJunior2.png" /></channel>
   
 <channel id="142">
     <display-name lang="en">BBC World News</display-name>
